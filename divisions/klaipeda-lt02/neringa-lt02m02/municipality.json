@@ -1,0 +1,45 @@
+{
+  "id": "LT02M02",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Neringa",
+    "en": "Neringa",
+    "slug": "neringa-lt02m02"
+  },
+  "code": {
+    "id": "LT02M02",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT02",
+    "level": 1,
+    "name": {
+      "local": "Klaipeda",
+      "en": "Klaipeda",
+      "slug": "klaipeda-lt02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT02",
+      "level": 1,
+      "name": {
+        "local": "Klaipeda",
+        "en": "Klaipeda",
+        "slug": "klaipeda-lt02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.344",
+    "lon": "21.033"
+  },
+  "metadata": {},
+  "source": {}
+}

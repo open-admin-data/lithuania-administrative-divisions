@@ -1,0 +1,45 @@
+{
+  "id": "LT10M01",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Moletai",
+    "en": "Moletai",
+    "slug": "moletai-lt10m01"
+  },
+  "code": {
+    "id": "LT10M01",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT10",
+    "level": 1,
+    "name": {
+      "local": "Utena",
+      "en": "Utena",
+      "slug": "utena-lt10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT10",
+      "level": 1,
+      "name": {
+        "local": "Utena",
+        "en": "Utena",
+        "slug": "utena-lt10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.213",
+    "lon": "25.443"
+  },
+  "metadata": {},
+  "source": {}
+}

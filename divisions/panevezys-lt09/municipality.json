@@ -1,0 +1,227 @@
+[
+  {
+    "id": "LT09M05",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Biržai",
+      "en": "Birzai",
+      "slug": "birzai-lt09m05"
+    },
+    "code": {
+      "id": "LT09M05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT09",
+      "level": 1,
+      "name": {
+        "local": "Panevežys",
+        "en": "Panevezys",
+        "slug": "panevezys-lt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT09",
+        "level": 1,
+        "name": {
+          "local": "Panevežys",
+          "en": "Panevezys",
+          "slug": "panevezys-lt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.198",
+      "lon": "24.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT09M02",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Kupiškis",
+      "en": "Kupiskis",
+      "slug": "kupiskis-lt09m02"
+    },
+    "code": {
+      "id": "LT09M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT09",
+      "level": 1,
+      "name": {
+        "local": "Panevežys",
+        "en": "Panevezys",
+        "slug": "panevezys-lt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT09",
+        "level": 1,
+        "name": {
+          "local": "Panevežys",
+          "en": "Panevezys",
+          "slug": "panevezys-lt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.85",
+      "lon": "25.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT09M01",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Panevežys",
+      "en": "Panevezys",
+      "slug": "panevezys-lt09m01"
+    },
+    "code": {
+      "id": "LT09M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT09",
+      "level": 1,
+      "name": {
+        "local": "Panevežys",
+        "en": "Panevezys",
+        "slug": "panevezys-lt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT09",
+        "level": 1,
+        "name": {
+          "local": "Panevežys",
+          "en": "Panevezys",
+          "slug": "panevezys-lt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.729",
+      "lon": "24.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT09M03",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pasvalys",
+      "en": "Pasvalys",
+      "slug": "pasvalys-lt09m03"
+    },
+    "code": {
+      "id": "LT09M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT09",
+      "level": 1,
+      "name": {
+        "local": "Panevežys",
+        "en": "Panevezys",
+        "slug": "panevezys-lt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT09",
+        "level": 1,
+        "name": {
+          "local": "Panevežys",
+          "en": "Panevezys",
+          "slug": "panevezys-lt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.093",
+      "lon": "24.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT09M04",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rokiškis",
+      "en": "Rokiskis",
+      "slug": "rokiskis-lt09m04"
+    },
+    "code": {
+      "id": "LT09M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT09",
+      "level": 1,
+      "name": {
+        "local": "Panevežys",
+        "en": "Panevezys",
+        "slug": "panevezys-lt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT09",
+        "level": 1,
+        "name": {
+          "local": "Panevežys",
+          "en": "Panevezys",
+          "slug": "panevezys-lt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.942",
+      "lon": "25.53"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "LT08M05",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jonava",
+    "en": "Jonava",
+    "slug": "jonava-lt08m05"
+  },
+  "code": {
+    "id": "LT08M05",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT08",
+    "level": 1,
+    "name": {
+      "local": "Kaunas",
+      "en": "Kaunas",
+      "slug": "kaunas-lt08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT08",
+      "level": 1,
+      "name": {
+        "local": "Kaunas",
+        "en": "Kaunas",
+        "slug": "kaunas-lt08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.115",
+    "lon": "24.308"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "LT02M06",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Skuodas",
+    "en": "Skuodas",
+    "slug": "skuodas-lt02m06"
+  },
+  "code": {
+    "id": "LT02M06",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT02",
+    "level": 1,
+    "name": {
+      "local": "Klaipeda",
+      "en": "Klaipeda",
+      "slug": "klaipeda-lt02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT02",
+      "level": 1,
+      "name": {
+        "local": "Klaipeda",
+        "en": "Klaipeda",
+        "slug": "klaipeda-lt02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.194",
+    "lon": "21.678"
+  },
+  "metadata": {},
+  "source": {}
+}

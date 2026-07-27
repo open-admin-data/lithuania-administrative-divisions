@@ -1,0 +1,34 @@
+# Marijampole — Lithuania Administrative Divisions
+
+> 5 municipalitys
+> Code: LT03
+> Coordinates: 54.69, 23.182
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Å akiai (A akiai)
+
+Code: LT03M05, Coordinates: 54.92, 23.115
+
+
+### Kalvarija
+
+Code: LT03M01, Coordinates: 54.382, 23.2
+
+
+### Kazlu Ruda
+
+Code: LT03M04, Coordinates: 54.796, 23.464
+
+
+### Marijampole
+
+Code: LT03M02, Coordinates: 54.562, 23.427
+
+
+### Vilkaviškis (Vilkaviskis)
+
+Code: LT03M03, Coordinates: 54.609, 22.962
+
+

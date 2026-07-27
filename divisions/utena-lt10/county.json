@@ -1,0 +1,33 @@
+{
+  "id": "LT10",
+  "level": 1,
+  "level_name": {
+    "local": "Apskritis",
+    "en": "County"
+  },
+  "name": {
+    "local": "Utena",
+    "en": "Utena",
+    "slug": "utena-lt10"
+  },
+  "code": {
+    "id": "LT10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.436",
+    "lon": "25.443"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lt/counties/utena-lt10/",
+    "api": "https://openadmindata.org/api/lt/"
+  }
+}

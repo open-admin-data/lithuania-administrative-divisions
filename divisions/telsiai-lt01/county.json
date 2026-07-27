@@ -1,0 +1,33 @@
+{
+  "id": "LT01",
+  "level": 1,
+  "level_name": {
+    "local": "Apskritis",
+    "en": "County"
+  },
+  "name": {
+    "local": "Telšiai",
+    "en": "Telsiai",
+    "slug": "telsiai-lt01"
+  },
+  "code": {
+    "id": "LT01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.975",
+    "lon": "22.214"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lt/counties/telsiai-lt01/",
+    "api": "https://openadmindata.org/api/lt/"
+  }
+}

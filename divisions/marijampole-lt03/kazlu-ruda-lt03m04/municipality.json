@@ -1,0 +1,45 @@
+{
+  "id": "LT03M04",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Kazlu Ruda",
+    "en": "Kazlu Ruda",
+    "slug": "kazlu-ruda-lt03m04"
+  },
+  "code": {
+    "id": "LT03M04",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT03",
+    "level": 1,
+    "name": {
+      "local": "Marijampole",
+      "en": "Marijampole",
+      "slug": "marijampole-lt03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT03",
+      "level": 1,
+      "name": {
+        "local": "Marijampole",
+        "en": "Marijampole",
+        "slug": "marijampole-lt03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.796",
+    "lon": "23.464"
+  },
+  "metadata": {},
+  "source": {}
+}

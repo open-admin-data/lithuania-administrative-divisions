@@ -1,0 +1,45 @@
+{
+  "id": "LT03M02",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Marijampole",
+    "en": "Marijampole",
+    "slug": "marijampole-lt03m02"
+  },
+  "code": {
+    "id": "LT03M02",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT03",
+    "level": 1,
+    "name": {
+      "local": "Marijampole",
+      "en": "Marijampole",
+      "slug": "marijampole-lt03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT03",
+      "level": 1,
+      "name": {
+        "local": "Marijampole",
+        "en": "Marijampole",
+        "slug": "marijampole-lt03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.562",
+    "lon": "23.427"
+  },
+  "metadata": {},
+  "source": {}
+}

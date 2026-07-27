@@ -1,0 +1,31 @@
+# Lithuania Administrative Divisions — Full Reference
+
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Per-County Data Files
+
+- [Telsiai](https://github.com/open-admin-data/lithuania-administrative-divisions/blob/main/docs/llms-full/telsiai-lt01.txt) — 4 municipalitys
+- [Klaipeda](https://github.com/open-admin-data/lithuania-administrative-divisions/blob/main/docs/llms-full/klaipeda-lt02.txt) — 6 municipalitys
+- [Marijampole](https://github.com/open-admin-data/lithuania-administrative-divisions/blob/main/docs/llms-full/marijampole-lt03.txt) — 5 municipalitys
+- [Siauliai](https://github.com/open-admin-data/lithuania-administrative-divisions/blob/main/docs/llms-full/siauliai-lt04.txt) — 6 municipalitys
+- [Vilnius](https://github.com/open-admin-data/lithuania-administrative-divisions/blob/main/docs/llms-full/vilnius-lt05.txt) — 7 municipalitys
+- [Alytus](https://github.com/open-admin-data/lithuania-administrative-divisions/blob/main/docs/llms-full/alytus-lt06.txt) — 4 municipalitys
+- [Taurage](https://github.com/open-admin-data/lithuania-administrative-divisions/blob/main/docs/llms-full/taurage-lt07.txt) — 4 municipalitys
+- [Kaunas](https://github.com/open-admin-data/lithuania-administrative-divisions/blob/main/docs/llms-full/kaunas-lt08.txt) — 7 municipalitys
+- [Panevezys](https://github.com/open-admin-data/lithuania-administrative-divisions/blob/main/docs/llms-full/panevezys-lt09.txt) — 5 municipalitys
+- [Utena](https://github.com/open-admin-data/lithuania-administrative-divisions/blob/main/docs/llms-full/utena-lt10.txt) — 6 municipalitys
+
+## Summary
+
+| County | Municipalitys | 
+|---|---|
+| Telsiai | 4 | 
+| Klaipeda | 6 | 
+| Marijampole | 5 | 
+| Siauliai | 6 | 
+| Vilnius | 7 | 
+| Alytus | 4 | 
+| Taurage | 4 | 
+| Kaunas | 7 | 
+| Panevezys | 5 | 
+| Utena | 6 | 

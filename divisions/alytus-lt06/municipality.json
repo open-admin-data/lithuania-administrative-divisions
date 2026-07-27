@@ -1,0 +1,182 @@
+[
+  {
+    "id": "LT06M04",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alytus",
+      "en": "Alytus",
+      "slug": "alytus-lt06m04"
+    },
+    "code": {
+      "id": "LT06M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT06",
+      "level": 1,
+      "name": {
+        "local": "Alytus",
+        "en": "Alytus",
+        "slug": "alytus-lt06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT06",
+        "level": 1,
+        "name": {
+          "local": "Alytus",
+          "en": "Alytus",
+          "slug": "alytus-lt06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.402",
+      "lon": "24.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT06M01",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Druskininkai",
+      "en": "Druskininkai",
+      "slug": "druskininkai-lt06m01"
+    },
+    "code": {
+      "id": "LT06M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT06",
+      "level": 1,
+      "name": {
+        "local": "Alytus",
+        "en": "Alytus",
+        "slug": "alytus-lt06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT06",
+        "level": 1,
+        "name": {
+          "local": "Alytus",
+          "en": "Alytus",
+          "slug": "alytus-lt06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.024",
+      "lon": "23.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT06M02",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lazdijai",
+      "en": "Lazdijai",
+      "slug": "lazdijai-lt06m02"
+    },
+    "code": {
+      "id": "LT06M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT06",
+      "level": 1,
+      "name": {
+        "local": "Alytus",
+        "en": "Alytus",
+        "slug": "alytus-lt06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT06",
+        "level": 1,
+        "name": {
+          "local": "Alytus",
+          "en": "Alytus",
+          "slug": "alytus-lt06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.171",
+      "lon": "23.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT06M03",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Varena",
+      "en": "Varena",
+      "slug": "varena-lt06m03"
+    },
+    "code": {
+      "id": "LT06M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT06",
+      "level": 1,
+      "name": {
+        "local": "Alytus",
+        "en": "Alytus",
+        "slug": "alytus-lt06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT06",
+        "level": 1,
+        "name": {
+          "local": "Alytus",
+          "en": "Alytus",
+          "slug": "alytus-lt06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.137",
+      "lon": "24.464"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

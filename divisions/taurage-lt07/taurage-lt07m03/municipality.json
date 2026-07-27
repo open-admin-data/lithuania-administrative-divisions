@@ -1,0 +1,45 @@
+{
+  "id": "LT07M03",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Taurage",
+    "en": "Taurage",
+    "slug": "taurage-lt07m03"
+  },
+  "code": {
+    "id": "LT07M03",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT07",
+    "level": 1,
+    "name": {
+      "local": "Taurage",
+      "en": "Taurage",
+      "slug": "taurage-lt07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT07",
+      "level": 1,
+      "name": {
+        "local": "Taurage",
+        "en": "Taurage",
+        "slug": "taurage-lt07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.288",
+    "lon": "22.372"
+  },
+  "metadata": {},
+  "source": {}
+}

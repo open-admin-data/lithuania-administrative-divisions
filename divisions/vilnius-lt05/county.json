@@ -1,0 +1,33 @@
+{
+  "id": "LT05",
+  "level": 1,
+  "level_name": {
+    "local": "Apskritis",
+    "en": "County"
+  },
+  "name": {
+    "local": "Vilnius",
+    "en": "Vilnius",
+    "slug": "vilnius-lt05"
+  },
+  "code": {
+    "id": "LT05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.651",
+    "lon": "25.314"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lt/counties/vilnius-lt05/",
+    "api": "https://openadmindata.org/api/lt/"
+  }
+}

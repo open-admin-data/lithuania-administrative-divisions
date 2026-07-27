@@ -1,0 +1,45 @@
+{
+  "id": "LT10M04",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Visaginas",
+    "en": "Visaginas",
+    "slug": "visaginas-lt10m04"
+  },
+  "code": {
+    "id": "LT10M04",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT10",
+    "level": 1,
+    "name": {
+      "local": "Utena",
+      "en": "Utena",
+      "slug": "utena-lt10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT10",
+      "level": 1,
+      "name": {
+        "local": "Utena",
+        "en": "Utena",
+        "slug": "utena-lt10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.585",
+    "lon": "26.493"
+  },
+  "metadata": {},
+  "source": {}
+}

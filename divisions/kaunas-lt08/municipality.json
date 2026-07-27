@@ -1,0 +1,317 @@
+[
+  {
+    "id": "LT08M01",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Birštonas",
+      "en": "Birstonas",
+      "slug": "birstonas-lt08m01"
+    },
+    "code": {
+      "id": "LT08M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT08",
+      "level": 1,
+      "name": {
+        "local": "Kaunas",
+        "en": "Kaunas",
+        "slug": "kaunas-lt08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT08",
+        "level": 1,
+        "name": {
+          "local": "Kaunas",
+          "en": "Kaunas",
+          "slug": "kaunas-lt08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.588",
+      "lon": "24.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT08M05",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jonava",
+      "en": "Jonava",
+      "slug": "jonava-lt08m05"
+    },
+    "code": {
+      "id": "LT08M05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT08",
+      "level": 1,
+      "name": {
+        "local": "Kaunas",
+        "en": "Kaunas",
+        "slug": "kaunas-lt08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT08",
+        "level": 1,
+        "name": {
+          "local": "Kaunas",
+          "en": "Kaunas",
+          "slug": "kaunas-lt08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.115",
+      "lon": "24.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT08M04",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Kaišiadorys",
+      "en": "Kaisiadorys",
+      "slug": "kaisiadorys-lt08m04"
+    },
+    "code": {
+      "id": "LT08M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT08",
+      "level": 1,
+      "name": {
+        "local": "Kaunas",
+        "en": "Kaunas",
+        "slug": "kaunas-lt08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT08",
+        "level": 1,
+        "name": {
+          "local": "Kaunas",
+          "en": "Kaunas",
+          "slug": "kaunas-lt08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.829",
+      "lon": "24.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT08M03",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Kaunas",
+      "en": "Kaunas",
+      "slug": "kaunas-lt08m03"
+    },
+    "code": {
+      "id": "LT08M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT08",
+      "level": 1,
+      "name": {
+        "local": "Kaunas",
+        "en": "Kaunas",
+        "slug": "kaunas-lt08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT08",
+        "level": 1,
+        "name": {
+          "local": "Kaunas",
+          "en": "Kaunas",
+          "slug": "kaunas-lt08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.902",
+      "lon": "23.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT08M07",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Kedainiai",
+      "en": "Kedainiai",
+      "slug": "kedainiai-lt08m07"
+    },
+    "code": {
+      "id": "LT08M07",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT08",
+      "level": 1,
+      "name": {
+        "local": "Kaunas",
+        "en": "Kaunas",
+        "slug": "kaunas-lt08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT08",
+        "level": 1,
+        "name": {
+          "local": "Kaunas",
+          "en": "Kaunas",
+          "slug": "kaunas-lt08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.335",
+      "lon": "23.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT08M02",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Prienai",
+      "en": "Prienai",
+      "slug": "prienai-lt08m02"
+    },
+    "code": {
+      "id": "LT08M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT08",
+      "level": 1,
+      "name": {
+        "local": "Kaunas",
+        "en": "Kaunas",
+        "slug": "kaunas-lt08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT08",
+        "level": 1,
+        "name": {
+          "local": "Kaunas",
+          "en": "Kaunas",
+          "slug": "kaunas-lt08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.639",
+      "lon": "23.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT08M06",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Raseiniai",
+      "en": "Raseiniai",
+      "slug": "raseiniai-lt08m06"
+    },
+    "code": {
+      "id": "LT08M06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT08",
+      "level": 1,
+      "name": {
+        "local": "Kaunas",
+        "en": "Kaunas",
+        "slug": "kaunas-lt08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT08",
+        "level": 1,
+        "name": {
+          "local": "Kaunas",
+          "en": "Kaunas",
+          "slug": "kaunas-lt08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.398",
+      "lon": "23.213"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

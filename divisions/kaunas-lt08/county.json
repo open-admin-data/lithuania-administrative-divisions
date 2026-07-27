@@ -1,0 +1,33 @@
+{
+  "id": "LT08",
+  "level": 1,
+  "level_name": {
+    "local": "Apskritis",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kaunas",
+    "en": "Kaunas",
+    "slug": "kaunas-lt08"
+  },
+  "code": {
+    "id": "LT08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.003",
+    "lon": "24.046"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lt/counties/kaunas-lt08/",
+    "api": "https://openadmindata.org/api/lt/"
+  }
+}

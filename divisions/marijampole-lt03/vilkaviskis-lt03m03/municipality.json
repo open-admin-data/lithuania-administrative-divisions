@@ -1,0 +1,45 @@
+{
+  "id": "LT03M03",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Vilkaviškis",
+    "en": "Vilkaviskis",
+    "slug": "vilkaviskis-lt03m03"
+  },
+  "code": {
+    "id": "LT03M03",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT03",
+    "level": 1,
+    "name": {
+      "local": "Marijampole",
+      "en": "Marijampole",
+      "slug": "marijampole-lt03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT03",
+      "level": 1,
+      "name": {
+        "local": "Marijampole",
+        "en": "Marijampole",
+        "slug": "marijampole-lt03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.609",
+    "lon": "22.962"
+  },
+  "metadata": {},
+  "source": {}
+}

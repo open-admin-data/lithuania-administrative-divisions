@@ -1,0 +1,45 @@
+{
+  "id": "LT04M01",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Kelme",
+    "en": "Kelme",
+    "slug": "kelme-lt04m01"
+  },
+  "code": {
+    "id": "LT04M01",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT04",
+    "level": 1,
+    "name": {
+      "local": "Šiauliai",
+      "en": "Siauliai",
+      "slug": "siauliai-lt04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT04",
+      "level": 1,
+      "name": {
+        "local": "Šiauliai",
+        "en": "Siauliai",
+        "slug": "siauliai-lt04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.664",
+    "lon": "22.912"
+  },
+  "metadata": {},
+  "source": {}
+}

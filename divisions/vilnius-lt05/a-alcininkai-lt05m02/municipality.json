@@ -1,0 +1,45 @@
+{
+  "id": "LT05M02",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Å alcininkai",
+    "en": "A alcininkai",
+    "slug": "a-alcininkai-lt05m02"
+  },
+  "code": {
+    "id": "LT05M02",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT05",
+    "level": 1,
+    "name": {
+      "local": "Vilnius",
+      "en": "Vilnius",
+      "slug": "vilnius-lt05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT05",
+      "level": 1,
+      "name": {
+        "local": "Vilnius",
+        "en": "Vilnius",
+        "slug": "vilnius-lt05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.323",
+    "lon": "25.11"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "LT01M04",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mažeikiai",
+    "en": "Mazeikiai",
+    "slug": "mazeikiai-lt01m04"
+  },
+  "code": {
+    "id": "LT01M04",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT01",
+    "level": 1,
+    "name": {
+      "local": "Telšiai",
+      "en": "Telsiai",
+      "slug": "telsiai-lt01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT01",
+      "level": 1,
+      "name": {
+        "local": "Telšiai",
+        "en": "Telsiai",
+        "slug": "telsiai-lt01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.284",
+    "lon": "22.29"
+  },
+  "metadata": {},
+  "source": {}
+}

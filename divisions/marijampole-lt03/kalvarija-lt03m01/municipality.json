@@ -1,0 +1,45 @@
+{
+  "id": "LT03M01",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Kalvarija",
+    "en": "Kalvarija",
+    "slug": "kalvarija-lt03m01"
+  },
+  "code": {
+    "id": "LT03M01",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT03",
+    "level": 1,
+    "name": {
+      "local": "Marijampole",
+      "en": "Marijampole",
+      "slug": "marijampole-lt03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT03",
+      "level": 1,
+      "name": {
+        "local": "Marijampole",
+        "en": "Marijampole",
+        "slug": "marijampole-lt03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.382",
+    "lon": "23.2"
+  },
+  "metadata": {},
+  "source": {}
+}

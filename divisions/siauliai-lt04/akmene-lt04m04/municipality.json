@@ -1,0 +1,45 @@
+{
+  "id": "LT04M04",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Akmene",
+    "en": "Akmene",
+    "slug": "akmene-lt04m04"
+  },
+  "code": {
+    "id": "LT04M04",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT04",
+    "level": 1,
+    "name": {
+      "local": "Šiauliai",
+      "en": "Siauliai",
+      "slug": "siauliai-lt04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT04",
+      "level": 1,
+      "name": {
+        "local": "Šiauliai",
+        "en": "Siauliai",
+        "slug": "siauliai-lt04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.223",
+    "lon": "22.793"
+  },
+  "metadata": {},
+  "source": {}
+}

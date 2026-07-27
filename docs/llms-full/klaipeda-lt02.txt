@@ -1,0 +1,39 @@
+# Klaipeda — Lithuania Administrative Divisions
+
+> 6 municipalitys
+> Code: LT02
+> Coordinates: 55.555, 21.427
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Å ilute (A ilute)
+
+Code: LT02M01, Coordinates: 55.377, 21.604
+
+
+### Klaipeda
+
+Code: LT02M03, Coordinates: 55.686, 21.114
+
+
+### Kretinga
+
+Code: LT02M05, Coordinates: 55.977, 21.378
+
+
+### Neringa
+
+Code: LT02M02, Coordinates: 55.344, 21.033
+
+
+### Palanga
+
+Code: LT02M04, Coordinates: 55.961, 21.095
+
+
+### Skuodas
+
+Code: LT02M06, Coordinates: 56.194, 21.678
+
+

@@ -1,0 +1,34 @@
+# Panevezys — Lithuania Administrative Divisions
+
+> 5 municipalitys
+> Code: LT09
+> Coordinates: 56.029, 24.713
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Biržai (Birzai)
+
+Code: LT09M05, Coordinates: 56.198, 24.823
+
+
+### Kupiškis (Kupiskis)
+
+Code: LT09M02, Coordinates: 55.85, 25.034
+
+
+### Panevežys (Panevezys)
+
+Code: LT09M01, Coordinates: 55.729, 24.348
+
+
+### Pasvalys
+
+Code: LT09M03, Coordinates: 56.093, 24.345
+
+
+### Rokiškis (Rokiskis)
+
+Code: LT09M04, Coordinates: 55.942, 25.53
+
+

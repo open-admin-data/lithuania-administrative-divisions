@@ -1,0 +1,45 @@
+{
+  "id": "LT10M05",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Utena",
+    "en": "Utena",
+    "slug": "utena-lt10m05"
+  },
+  "code": {
+    "id": "LT10M05",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT10",
+    "level": 1,
+    "name": {
+      "local": "Utena",
+      "en": "Utena",
+      "slug": "utena-lt10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT10",
+      "level": 1,
+      "name": {
+        "local": "Utena",
+        "en": "Utena",
+        "slug": "utena-lt10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.526",
+    "lon": "25.668"
+  },
+  "metadata": {},
+  "source": {}
+}

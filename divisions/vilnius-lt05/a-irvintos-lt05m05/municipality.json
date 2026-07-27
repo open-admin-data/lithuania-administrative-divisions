@@ -1,0 +1,45 @@
+{
+  "id": "LT05M05",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Å irvintos",
+    "en": "A irvintos",
+    "slug": "a-irvintos-lt05m05"
+  },
+  "code": {
+    "id": "LT05M05",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT05",
+    "level": 1,
+    "name": {
+      "local": "Vilnius",
+      "en": "Vilnius",
+      "slug": "vilnius-lt05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT05",
+      "level": 1,
+      "name": {
+        "local": "Vilnius",
+        "en": "Vilnius",
+        "slug": "vilnius-lt05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.997",
+    "lon": "24.927"
+  },
+  "metadata": {},
+  "source": {}
+}

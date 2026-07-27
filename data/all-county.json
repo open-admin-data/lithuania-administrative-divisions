@@ -1,0 +1,332 @@
+[
+  {
+    "id": "LT01",
+    "level": 1,
+    "level_name": {
+      "local": "Apskritis",
+      "en": "County"
+    },
+    "name": {
+      "local": "Telšiai",
+      "en": "Telsiai",
+      "slug": "telsiai-lt01"
+    },
+    "code": {
+      "id": "LT01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.975",
+      "lon": "22.214"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lt/counties/telsiai-lt01/",
+      "api": "https://openadmindata.org/api/lt/"
+    }
+  },
+  {
+    "id": "LT02",
+    "level": 1,
+    "level_name": {
+      "local": "Apskritis",
+      "en": "County"
+    },
+    "name": {
+      "local": "Klaipeda",
+      "en": "Klaipeda",
+      "slug": "klaipeda-lt02"
+    },
+    "code": {
+      "id": "LT02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.555",
+      "lon": "21.427"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lt/counties/klaipeda-lt02/",
+      "api": "https://openadmindata.org/api/lt/"
+    }
+  },
+  {
+    "id": "LT03",
+    "level": 1,
+    "level_name": {
+      "local": "Apskritis",
+      "en": "County"
+    },
+    "name": {
+      "local": "Marijampole",
+      "en": "Marijampole",
+      "slug": "marijampole-lt03"
+    },
+    "code": {
+      "id": "LT03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.69",
+      "lon": "23.182"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lt/counties/marijampole-lt03/",
+      "api": "https://openadmindata.org/api/lt/"
+    }
+  },
+  {
+    "id": "LT04",
+    "level": 1,
+    "level_name": {
+      "local": "Apskritis",
+      "en": "County"
+    },
+    "name": {
+      "local": "Šiauliai",
+      "en": "Siauliai",
+      "slug": "siauliai-lt04"
+    },
+    "code": {
+      "id": "LT04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.963",
+      "lon": "23.325"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lt/counties/siauliai-lt04/",
+      "api": "https://openadmindata.org/api/lt/"
+    }
+  },
+  {
+    "id": "LT05",
+    "level": 1,
+    "level_name": {
+      "local": "Apskritis",
+      "en": "County"
+    },
+    "name": {
+      "local": "Vilnius",
+      "en": "Vilnius",
+      "slug": "vilnius-lt05"
+    },
+    "code": {
+      "id": "LT05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.651",
+      "lon": "25.314"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lt/counties/vilnius-lt05/",
+      "api": "https://openadmindata.org/api/lt/"
+    }
+  },
+  {
+    "id": "LT06",
+    "level": 1,
+    "level_name": {
+      "local": "Apskritis",
+      "en": "County"
+    },
+    "name": {
+      "local": "Alytus",
+      "en": "Alytus",
+      "slug": "alytus-lt06"
+    },
+    "code": {
+      "id": "LT06",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.246",
+      "lon": "24.142"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lt/counties/alytus-lt06/",
+      "api": "https://openadmindata.org/api/lt/"
+    }
+  },
+  {
+    "id": "LT07",
+    "level": 1,
+    "level_name": {
+      "local": "Apskritis",
+      "en": "County"
+    },
+    "name": {
+      "local": "Taurage",
+      "en": "Taurage",
+      "slug": "taurage-lt07"
+    },
+    "code": {
+      "id": "LT07",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.364",
+      "lon": "22.357"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lt/counties/taurage-lt07/",
+      "api": "https://openadmindata.org/api/lt/"
+    }
+  },
+  {
+    "id": "LT08",
+    "level": 1,
+    "level_name": {
+      "local": "Apskritis",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kaunas",
+      "en": "Kaunas",
+      "slug": "kaunas-lt08"
+    },
+    "code": {
+      "id": "LT08",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.003",
+      "lon": "24.046"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lt/counties/kaunas-lt08/",
+      "api": "https://openadmindata.org/api/lt/"
+    }
+  },
+  {
+    "id": "LT09",
+    "level": 1,
+    "level_name": {
+      "local": "Apskritis",
+      "en": "County"
+    },
+    "name": {
+      "local": "Panevežys",
+      "en": "Panevezys",
+      "slug": "panevezys-lt09"
+    },
+    "code": {
+      "id": "LT09",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.029",
+      "lon": "24.713"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lt/counties/panevezys-lt09/",
+      "api": "https://openadmindata.org/api/lt/"
+    }
+  },
+  {
+    "id": "LT10",
+    "level": 1,
+    "level_name": {
+      "local": "Apskritis",
+      "en": "County"
+    },
+    "name": {
+      "local": "Utena",
+      "en": "Utena",
+      "slug": "utena-lt10"
+    },
+    "code": {
+      "id": "LT10",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.436",
+      "lon": "25.443"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lt/counties/utena-lt10/",
+      "api": "https://openadmindata.org/api/lt/"
+    }
+  }
+]

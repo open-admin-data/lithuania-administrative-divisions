@@ -1,0 +1,45 @@
+{
+  "id": "LT05M07",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Å vencionys",
+    "en": "A vencionys",
+    "slug": "a-vencionys-lt05m07"
+  },
+  "code": {
+    "id": "LT05M07",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT05",
+    "level": 1,
+    "name": {
+      "local": "Vilnius",
+      "en": "Vilnius",
+      "slug": "vilnius-lt05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT05",
+      "level": 1,
+      "name": {
+        "local": "Vilnius",
+        "en": "Vilnius",
+        "slug": "vilnius-lt05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.112",
+    "lon": "26.01"
+  },
+  "metadata": {},
+  "source": {}
+}

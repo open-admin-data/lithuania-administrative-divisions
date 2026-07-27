@@ -1,0 +1,45 @@
+{
+  "id": "LT05M03",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Trakai",
+    "en": "Trakai",
+    "slug": "trakai-lt05m03"
+  },
+  "code": {
+    "id": "LT05M03",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT05",
+    "level": 1,
+    "name": {
+      "local": "Vilnius",
+      "en": "Vilnius",
+      "slug": "vilnius-lt05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT05",
+      "level": 1,
+      "name": {
+        "local": "Vilnius",
+        "en": "Vilnius",
+        "slug": "vilnius-lt05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.526",
+    "lon": "24.79"
+  },
+  "metadata": {},
+  "source": {}
+}

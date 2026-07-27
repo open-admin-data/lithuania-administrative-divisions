@@ -1,0 +1,272 @@
+[
+  {
+    "id": "LT04M04",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Akmene",
+      "en": "Akmene",
+      "slug": "akmene-lt04m04"
+    },
+    "code": {
+      "id": "LT04M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT04",
+      "level": 1,
+      "name": {
+        "local": "Šiauliai",
+        "en": "Siauliai",
+        "slug": "siauliai-lt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT04",
+        "level": 1,
+        "name": {
+          "local": "Šiauliai",
+          "en": "Siauliai",
+          "slug": "siauliai-lt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.223",
+      "lon": "22.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT04M06",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Joniškis",
+      "en": "Joniskis",
+      "slug": "joniskis-lt04m06"
+    },
+    "code": {
+      "id": "LT04M06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT04",
+      "level": 1,
+      "name": {
+        "local": "Šiauliai",
+        "en": "Siauliai",
+        "slug": "siauliai-lt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT04",
+        "level": 1,
+        "name": {
+          "local": "Šiauliai",
+          "en": "Siauliai",
+          "slug": "siauliai-lt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.207",
+      "lon": "23.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT04M01",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Kelme",
+      "en": "Kelme",
+      "slug": "kelme-lt04m01"
+    },
+    "code": {
+      "id": "LT04M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT04",
+      "level": 1,
+      "name": {
+        "local": "Šiauliai",
+        "en": "Siauliai",
+        "slug": "siauliai-lt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT04",
+        "level": 1,
+        "name": {
+          "local": "Šiauliai",
+          "en": "Siauliai",
+          "slug": "siauliai-lt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.664",
+      "lon": "22.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT04M05",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pakruojis",
+      "en": "Pakruojis",
+      "slug": "pakruojis-lt04m05"
+    },
+    "code": {
+      "id": "LT04M05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT04",
+      "level": 1,
+      "name": {
+        "local": "Šiauliai",
+        "en": "Siauliai",
+        "slug": "siauliai-lt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT04",
+        "level": 1,
+        "name": {
+          "local": "Šiauliai",
+          "en": "Siauliai",
+          "slug": "siauliai-lt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.029",
+      "lon": "23.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT04M02",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Radviliškis",
+      "en": "Radviliskis",
+      "slug": "radviliskis-lt04m02"
+    },
+    "code": {
+      "id": "LT04M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT04",
+      "level": 1,
+      "name": {
+        "local": "Šiauliai",
+        "en": "Siauliai",
+        "slug": "siauliai-lt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT04",
+        "level": 1,
+        "name": {
+          "local": "Šiauliai",
+          "en": "Siauliai",
+          "slug": "siauliai-lt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.685",
+      "lon": "23.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT04M03",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Šiauliai",
+      "en": "Siauliai",
+      "slug": "siauliai-lt04m03"
+    },
+    "code": {
+      "id": "LT04M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT04",
+      "level": 1,
+      "name": {
+        "local": "Šiauliai",
+        "en": "Siauliai",
+        "slug": "siauliai-lt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT04",
+        "level": 1,
+        "name": {
+          "local": "Šiauliai",
+          "en": "Siauliai",
+          "slug": "siauliai-lt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.93",
+      "lon": "23.316"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

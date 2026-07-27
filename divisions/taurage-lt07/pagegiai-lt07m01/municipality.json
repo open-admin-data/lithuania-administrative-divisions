@@ -1,0 +1,45 @@
+{
+  "id": "LT07M01",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pagegiai",
+    "en": "Pagegiai",
+    "slug": "pagegiai-lt07m01"
+  },
+  "code": {
+    "id": "LT07M01",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT07",
+    "level": 1,
+    "name": {
+      "local": "Taurage",
+      "en": "Taurage",
+      "slug": "taurage-lt07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT07",
+      "level": 1,
+      "name": {
+        "local": "Taurage",
+        "en": "Taurage",
+        "slug": "taurage-lt07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.17",
+    "lon": "21.947"
+  },
+  "metadata": {},
+  "source": {}
+}

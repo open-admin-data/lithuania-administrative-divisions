@@ -1,0 +1,45 @@
+{
+  "id": "LT03M05",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Å akiai",
+    "en": "A akiai",
+    "slug": "a-akiai-lt03m05"
+  },
+  "code": {
+    "id": "LT03M05",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT03",
+    "level": 1,
+    "name": {
+      "local": "Marijampole",
+      "en": "Marijampole",
+      "slug": "marijampole-lt03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT03",
+      "level": 1,
+      "name": {
+        "local": "Marijampole",
+        "en": "Marijampole",
+        "slug": "marijampole-lt03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.92",
+    "lon": "23.115"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "LT02M01",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Å ilute",
+    "en": "A ilute",
+    "slug": "a-ilute-lt02m01"
+  },
+  "code": {
+    "id": "LT02M01",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT02",
+    "level": 1,
+    "name": {
+      "local": "Klaipeda",
+      "en": "Klaipeda",
+      "slug": "klaipeda-lt02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT02",
+      "level": 1,
+      "name": {
+        "local": "Klaipeda",
+        "en": "Klaipeda",
+        "slug": "klaipeda-lt02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.377",
+    "lon": "21.604"
+  },
+  "metadata": {},
+  "source": {}
+}

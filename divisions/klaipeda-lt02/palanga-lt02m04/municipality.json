@@ -1,0 +1,45 @@
+{
+  "id": "LT02M04",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Palanga",
+    "en": "Palanga",
+    "slug": "palanga-lt02m04"
+  },
+  "code": {
+    "id": "LT02M04",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT02",
+    "level": 1,
+    "name": {
+      "local": "Klaipeda",
+      "en": "Klaipeda",
+      "slug": "klaipeda-lt02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT02",
+      "level": 1,
+      "name": {
+        "local": "Klaipeda",
+        "en": "Klaipeda",
+        "slug": "klaipeda-lt02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.961",
+    "lon": "21.095"
+  },
+  "metadata": {},
+  "source": {}
+}

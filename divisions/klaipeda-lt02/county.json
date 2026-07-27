@@ -1,0 +1,33 @@
+{
+  "id": "LT02",
+  "level": 1,
+  "level_name": {
+    "local": "Apskritis",
+    "en": "County"
+  },
+  "name": {
+    "local": "Klaipeda",
+    "en": "Klaipeda",
+    "slug": "klaipeda-lt02"
+  },
+  "code": {
+    "id": "LT02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.555",
+    "lon": "21.427"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lt/counties/klaipeda-lt02/",
+    "api": "https://openadmindata.org/api/lt/"
+  }
+}

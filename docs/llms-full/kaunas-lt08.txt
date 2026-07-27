@@ -1,0 +1,44 @@
+# Kaunas — Lithuania Administrative Divisions
+
+> 7 municipalitys
+> Code: LT08
+> Coordinates: 55.003, 24.046
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Birštonas (Birstonas)
+
+Code: LT08M01, Coordinates: 54.588, 24.047
+
+
+### Jonava
+
+Code: LT08M05, Coordinates: 55.115, 24.308
+
+
+### Kaišiadorys (Kaisiadorys)
+
+Code: LT08M04, Coordinates: 54.829, 24.387
+
+
+### Kaunas
+
+Code: LT08M03, Coordinates: 54.902, 23.93
+
+
+### Kedainiai
+
+Code: LT08M07, Coordinates: 55.335, 23.928
+
+
+### Prienai
+
+Code: LT08M02, Coordinates: 54.639, 23.873
+
+
+### Raseiniai
+
+Code: LT08M06, Coordinates: 55.398, 23.213
+
+

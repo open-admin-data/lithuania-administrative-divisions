@@ -1,0 +1,45 @@
+{
+  "id": "LT01M01",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rietavas",
+    "en": "Rietavas",
+    "slug": "rietavas-lt01m01"
+  },
+  "code": {
+    "id": "LT01M01",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT01",
+    "level": 1,
+    "name": {
+      "local": "Telšiai",
+      "en": "Telsiai",
+      "slug": "telsiai-lt01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT01",
+      "level": 1,
+      "name": {
+        "local": "Telšiai",
+        "en": "Telsiai",
+        "slug": "telsiai-lt01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.727",
+    "lon": "21.992"
+  },
+  "metadata": {},
+  "source": {}
+}

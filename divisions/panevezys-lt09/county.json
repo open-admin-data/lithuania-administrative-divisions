@@ -1,0 +1,33 @@
+{
+  "id": "LT09",
+  "level": 1,
+  "level_name": {
+    "local": "Apskritis",
+    "en": "County"
+  },
+  "name": {
+    "local": "Panevežys",
+    "en": "Panevezys",
+    "slug": "panevezys-lt09"
+  },
+  "code": {
+    "id": "LT09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.029",
+    "lon": "24.713"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lt/counties/panevezys-lt09/",
+    "api": "https://openadmindata.org/api/lt/"
+  }
+}

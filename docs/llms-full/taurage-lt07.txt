@@ -1,0 +1,29 @@
+# Taurage — Lithuania Administrative Divisions
+
+> 4 municipalitys
+> Code: LT07
+> Coordinates: 55.364, 22.357
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Å ilale (A ilale)
+
+Code: LT07M04, Coordinates: 55.517, 22.145
+
+
+### Jurbarkas
+
+Code: LT07M02, Coordinates: 55.194, 22.723
+
+
+### Pagegiai
+
+Code: LT07M01, Coordinates: 55.17, 21.947
+
+
+### Taurage
+
+Code: LT07M03, Coordinates: 55.288, 22.372
+
+

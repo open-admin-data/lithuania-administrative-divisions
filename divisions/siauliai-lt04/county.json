@@ -1,0 +1,33 @@
+{
+  "id": "LT04",
+  "level": 1,
+  "level_name": {
+    "local": "Apskritis",
+    "en": "County"
+  },
+  "name": {
+    "local": "Šiauliai",
+    "en": "Siauliai",
+    "slug": "siauliai-lt04"
+  },
+  "code": {
+    "id": "LT04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.963",
+    "lon": "23.325"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lt/counties/siauliai-lt04/",
+    "api": "https://openadmindata.org/api/lt/"
+  }
+}

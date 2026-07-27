@@ -1,0 +1,44 @@
+# Vilnius — Lithuania Administrative Divisions
+
+> 7 municipalitys
+> Code: LT05
+> Coordinates: 54.651, 25.314
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Å alcininkai (A alcininkai)
+
+Code: LT05M02, Coordinates: 54.323, 25.11
+
+
+### Å irvintos (A irvintos)
+
+Code: LT05M05, Coordinates: 54.997, 24.927
+
+
+### Å vencionys (A vencionys)
+
+Code: LT05M07, Coordinates: 55.112, 26.01
+
+
+### Elektrenai
+
+Code: LT05M04, Coordinates: 54.734, 24.724
+
+
+### Trakai
+
+Code: LT05M03, Coordinates: 54.526, 24.79
+
+
+### Ukmerge
+
+Code: LT05M06, Coordinates: 55.258, 24.687
+
+
+### Vilnius
+
+Code: LT05M01, Coordinates: 54.701, 25.252
+
+

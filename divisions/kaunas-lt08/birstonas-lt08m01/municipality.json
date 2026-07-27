@@ -1,0 +1,45 @@
+{
+  "id": "LT08M01",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Birštonas",
+    "en": "Birstonas",
+    "slug": "birstonas-lt08m01"
+  },
+  "code": {
+    "id": "LT08M01",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT08",
+    "level": 1,
+    "name": {
+      "local": "Kaunas",
+      "en": "Kaunas",
+      "slug": "kaunas-lt08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT08",
+      "level": 1,
+      "name": {
+        "local": "Kaunas",
+        "en": "Kaunas",
+        "slug": "kaunas-lt08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.588",
+    "lon": "24.047"
+  },
+  "metadata": {},
+  "source": {}
+}

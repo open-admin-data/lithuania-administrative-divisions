@@ -1,0 +1,33 @@
+{
+  "id": "LT07",
+  "level": 1,
+  "level_name": {
+    "local": "Apskritis",
+    "en": "County"
+  },
+  "name": {
+    "local": "Taurage",
+    "en": "Taurage",
+    "slug": "taurage-lt07"
+  },
+  "code": {
+    "id": "LT07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.364",
+    "lon": "22.357"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lt/counties/taurage-lt07/",
+    "api": "https://openadmindata.org/api/lt/"
+  }
+}

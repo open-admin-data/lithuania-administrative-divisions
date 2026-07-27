@@ -1,0 +1,29 @@
+# Telsiai — Lithuania Administrative Divisions
+
+> 4 municipalitys
+> Code: LT01
+> Coordinates: 55.975, 22.214
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Mažeikiai (Mazeikiai)
+
+Code: LT01M04, Coordinates: 56.284, 22.29
+
+
+### Plunge
+
+Code: LT01M02, Coordinates: 55.945, 21.82
+
+
+### Rietavas
+
+Code: LT01M01, Coordinates: 55.727, 21.992
+
+
+### Telšiai (Telsiai)
+
+Code: LT01M03, Coordinates: 55.928, 22.368
+
+

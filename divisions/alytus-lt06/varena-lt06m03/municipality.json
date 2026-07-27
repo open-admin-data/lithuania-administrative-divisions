@@ -1,0 +1,45 @@
+{
+  "id": "LT06M03",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Varena",
+    "en": "Varena",
+    "slug": "varena-lt06m03"
+  },
+  "code": {
+    "id": "LT06M03",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT06",
+    "level": 1,
+    "name": {
+      "local": "Alytus",
+      "en": "Alytus",
+      "slug": "alytus-lt06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT06",
+      "level": 1,
+      "name": {
+        "local": "Alytus",
+        "en": "Alytus",
+        "slug": "alytus-lt06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.137",
+    "lon": "24.464"
+  },
+  "metadata": {},
+  "source": {}
+}

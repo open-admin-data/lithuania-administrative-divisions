@@ -1,0 +1,29 @@
+# Alytus — Lithuania Administrative Divisions
+
+> 4 municipalitys
+> Code: LT06
+> Coordinates: 54.246, 24.142
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Alytus
+
+Code: LT06M04, Coordinates: 54.402, 24.025
+
+
+### Druskininkai
+
+Code: LT06M01, Coordinates: 54.024, 23.97
+
+
+### Lazdijai
+
+Code: LT06M02, Coordinates: 54.171, 23.645
+
+
+### Varena
+
+Code: LT06M03, Coordinates: 54.137, 24.464
+
+

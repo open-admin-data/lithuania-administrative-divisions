@@ -1,0 +1,45 @@
+{
+  "id": "LT10M03",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Anykšciai",
+    "en": "Anyksciai",
+    "slug": "anyksciai-lt10m03"
+  },
+  "code": {
+    "id": "LT10M03",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT10",
+    "level": 1,
+    "name": {
+      "local": "Utena",
+      "en": "Utena",
+      "slug": "utena-lt10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT10",
+      "level": 1,
+      "name": {
+        "local": "Utena",
+        "en": "Utena",
+        "slug": "utena-lt10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.522",
+    "lon": "25.023"
+  },
+  "metadata": {},
+  "source": {}
+}

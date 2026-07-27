@@ -1,0 +1,45 @@
+{
+  "id": "LT08M06",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Raseiniai",
+    "en": "Raseiniai",
+    "slug": "raseiniai-lt08m06"
+  },
+  "code": {
+    "id": "LT08M06",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT08",
+    "level": 1,
+    "name": {
+      "local": "Kaunas",
+      "en": "Kaunas",
+      "slug": "kaunas-lt08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT08",
+      "level": 1,
+      "name": {
+        "local": "Kaunas",
+        "en": "Kaunas",
+        "slug": "kaunas-lt08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.398",
+    "lon": "23.213"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "LT10M06",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Zarasai",
+    "en": "Zarasai",
+    "slug": "zarasai-lt10m06"
+  },
+  "code": {
+    "id": "LT10M06",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT10",
+    "level": 1,
+    "name": {
+      "local": "Utena",
+      "en": "Utena",
+      "slug": "utena-lt10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT10",
+      "level": 1,
+      "name": {
+        "local": "Utena",
+        "en": "Utena",
+        "slug": "utena-lt10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.71",
+    "lon": "26.094"
+  },
+  "metadata": {},
+  "source": {}
+}

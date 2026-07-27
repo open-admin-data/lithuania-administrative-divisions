@@ -1,0 +1,12 @@
+# Data from Open Admin Data (https://openadmindata.org/lt/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/lithuania-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.county,children_count.municipality,zip_codes,geo.lat,geo.lon,source_url
+LT01,1,Apskritis,County,Telšiai,Telsiai,telsiai-lt01,LT01,,,,,,4,,55.975,22.214,https://openadmindata.org/lt/counties/telsiai-lt01/
+LT02,1,Apskritis,County,Klaipeda,Klaipeda,klaipeda-lt02,LT02,,,,,,6,,55.555,21.427,https://openadmindata.org/lt/counties/klaipeda-lt02/
+LT03,1,Apskritis,County,Marijampole,Marijampole,marijampole-lt03,LT03,,,,,,5,,54.69,23.182,https://openadmindata.org/lt/counties/marijampole-lt03/
+LT04,1,Apskritis,County,Šiauliai,Siauliai,siauliai-lt04,LT04,,,,,,6,,55.963,23.325,https://openadmindata.org/lt/counties/siauliai-lt04/
+LT05,1,Apskritis,County,Vilnius,Vilnius,vilnius-lt05,LT05,,,,,,7,,54.651,25.314,https://openadmindata.org/lt/counties/vilnius-lt05/
+LT06,1,Apskritis,County,Alytus,Alytus,alytus-lt06,LT06,,,,,,4,,54.246,24.142,https://openadmindata.org/lt/counties/alytus-lt06/
+LT07,1,Apskritis,County,Taurage,Taurage,taurage-lt07,LT07,,,,,,4,,55.364,22.357,https://openadmindata.org/lt/counties/taurage-lt07/
+LT08,1,Apskritis,County,Kaunas,Kaunas,kaunas-lt08,LT08,,,,,,7,,55.003,24.046,https://openadmindata.org/lt/counties/kaunas-lt08/
+LT09,1,Apskritis,County,Panevežys,Panevezys,panevezys-lt09,LT09,,,,,,5,,56.029,24.713,https://openadmindata.org/lt/counties/panevezys-lt09/
+LT10,1,Apskritis,County,Utena,Utena,utena-lt10,LT10,,,,,,6,,55.436,25.443,https://openadmindata.org/lt/counties/utena-lt10/

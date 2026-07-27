@@ -1,0 +1,39 @@
+# Siauliai — Lithuania Administrative Divisions
+
+> 6 municipalitys
+> Code: LT04
+> Coordinates: 55.963, 23.325
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Akmene
+
+Code: LT04M04, Coordinates: 56.223, 22.793
+
+
+### Joniškis (Joniskis)
+
+Code: LT04M06, Coordinates: 56.207, 23.511
+
+
+### Kelme
+
+Code: LT04M01, Coordinates: 55.664, 22.912
+
+
+### Pakruojis
+
+Code: LT04M05, Coordinates: 56.029, 23.87
+
+
+### Radviliškis (Radviliskis)
+
+Code: LT04M02, Coordinates: 55.685, 23.636
+
+
+### Šiauliai (Siauliai)
+
+Code: LT04M03, Coordinates: 55.93, 23.316
+
+

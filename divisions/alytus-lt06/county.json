@@ -1,0 +1,33 @@
+{
+  "id": "LT06",
+  "level": 1,
+  "level_name": {
+    "local": "Apskritis",
+    "en": "County"
+  },
+  "name": {
+    "local": "Alytus",
+    "en": "Alytus",
+    "slug": "alytus-lt06"
+  },
+  "code": {
+    "id": "LT06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.246",
+    "lon": "24.142"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lt/counties/alytus-lt06/",
+    "api": "https://openadmindata.org/api/lt/"
+  }
+}

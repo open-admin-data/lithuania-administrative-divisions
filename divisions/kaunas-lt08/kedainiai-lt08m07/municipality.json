@@ -1,0 +1,45 @@
+{
+  "id": "LT08M07",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Kedainiai",
+    "en": "Kedainiai",
+    "slug": "kedainiai-lt08m07"
+  },
+  "code": {
+    "id": "LT08M07",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT08",
+    "level": 1,
+    "name": {
+      "local": "Kaunas",
+      "en": "Kaunas",
+      "slug": "kaunas-lt08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT08",
+      "level": 1,
+      "name": {
+        "local": "Kaunas",
+        "en": "Kaunas",
+        "slug": "kaunas-lt08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.335",
+    "lon": "23.928"
+  },
+  "metadata": {},
+  "source": {}
+}

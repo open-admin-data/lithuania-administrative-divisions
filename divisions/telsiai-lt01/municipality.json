@@ -1,0 +1,182 @@
+[
+  {
+    "id": "LT01M04",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mažeikiai",
+      "en": "Mazeikiai",
+      "slug": "mazeikiai-lt01m04"
+    },
+    "code": {
+      "id": "LT01M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT01",
+      "level": 1,
+      "name": {
+        "local": "Telšiai",
+        "en": "Telsiai",
+        "slug": "telsiai-lt01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT01",
+        "level": 1,
+        "name": {
+          "local": "Telšiai",
+          "en": "Telsiai",
+          "slug": "telsiai-lt01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.284",
+      "lon": "22.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT01M02",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Plunge",
+      "en": "Plunge",
+      "slug": "plunge-lt01m02"
+    },
+    "code": {
+      "id": "LT01M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT01",
+      "level": 1,
+      "name": {
+        "local": "Telšiai",
+        "en": "Telsiai",
+        "slug": "telsiai-lt01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT01",
+        "level": 1,
+        "name": {
+          "local": "Telšiai",
+          "en": "Telsiai",
+          "slug": "telsiai-lt01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.945",
+      "lon": "21.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT01M01",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rietavas",
+      "en": "Rietavas",
+      "slug": "rietavas-lt01m01"
+    },
+    "code": {
+      "id": "LT01M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT01",
+      "level": 1,
+      "name": {
+        "local": "Telšiai",
+        "en": "Telsiai",
+        "slug": "telsiai-lt01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT01",
+        "level": 1,
+        "name": {
+          "local": "Telšiai",
+          "en": "Telsiai",
+          "slug": "telsiai-lt01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.727",
+      "lon": "21.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT01M03",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Telšiai",
+      "en": "Telsiai",
+      "slug": "telsiai-lt01m03"
+    },
+    "code": {
+      "id": "LT01M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT01",
+      "level": 1,
+      "name": {
+        "local": "Telšiai",
+        "en": "Telsiai",
+        "slug": "telsiai-lt01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT01",
+        "level": 1,
+        "name": {
+          "local": "Telšiai",
+          "en": "Telsiai",
+          "slug": "telsiai-lt01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.928",
+      "lon": "22.368"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

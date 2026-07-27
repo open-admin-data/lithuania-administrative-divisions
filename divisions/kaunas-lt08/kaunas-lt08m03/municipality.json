@@ -1,0 +1,45 @@
+{
+  "id": "LT08M03",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Kaunas",
+    "en": "Kaunas",
+    "slug": "kaunas-lt08m03"
+  },
+  "code": {
+    "id": "LT08M03",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT08",
+    "level": 1,
+    "name": {
+      "local": "Kaunas",
+      "en": "Kaunas",
+      "slug": "kaunas-lt08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT08",
+      "level": 1,
+      "name": {
+        "local": "Kaunas",
+        "en": "Kaunas",
+        "slug": "kaunas-lt08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.902",
+    "lon": "23.93"
+  },
+  "metadata": {},
+  "source": {}
+}

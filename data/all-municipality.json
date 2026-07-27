@@ -1,0 +1,2432 @@
+[
+  {
+    "id": "LT05M01",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vilnius",
+      "en": "Vilnius",
+      "slug": "vilnius-lt05m01"
+    },
+    "code": {
+      "id": "LT05M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT05",
+      "level": 1,
+      "name": {
+        "local": "Vilnius",
+        "en": "Vilnius",
+        "slug": "vilnius-lt05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT05",
+        "level": 1,
+        "name": {
+          "local": "Vilnius",
+          "en": "Vilnius",
+          "slug": "vilnius-lt05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.701",
+      "lon": "25.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT06M01",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Druskininkai",
+      "en": "Druskininkai",
+      "slug": "druskininkai-lt06m01"
+    },
+    "code": {
+      "id": "LT06M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT06",
+      "level": 1,
+      "name": {
+        "local": "Alytus",
+        "en": "Alytus",
+        "slug": "alytus-lt06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT06",
+        "level": 1,
+        "name": {
+          "local": "Alytus",
+          "en": "Alytus",
+          "slug": "alytus-lt06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.024",
+      "lon": "23.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT06M02",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lazdijai",
+      "en": "Lazdijai",
+      "slug": "lazdijai-lt06m02"
+    },
+    "code": {
+      "id": "LT06M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT06",
+      "level": 1,
+      "name": {
+        "local": "Alytus",
+        "en": "Alytus",
+        "slug": "alytus-lt06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT06",
+        "level": 1,
+        "name": {
+          "local": "Alytus",
+          "en": "Alytus",
+          "slug": "alytus-lt06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.171",
+      "lon": "23.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT03M01",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Kalvarija",
+      "en": "Kalvarija",
+      "slug": "kalvarija-lt03m01"
+    },
+    "code": {
+      "id": "LT03M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT03",
+      "level": 1,
+      "name": {
+        "local": "Marijampole",
+        "en": "Marijampole",
+        "slug": "marijampole-lt03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT03",
+        "level": 1,
+        "name": {
+          "local": "Marijampole",
+          "en": "Marijampole",
+          "slug": "marijampole-lt03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.382",
+      "lon": "23.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT06M03",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Varena",
+      "en": "Varena",
+      "slug": "varena-lt06m03"
+    },
+    "code": {
+      "id": "LT06M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT06",
+      "level": 1,
+      "name": {
+        "local": "Alytus",
+        "en": "Alytus",
+        "slug": "alytus-lt06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT06",
+        "level": 1,
+        "name": {
+          "local": "Alytus",
+          "en": "Alytus",
+          "slug": "alytus-lt06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.137",
+      "lon": "24.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT08M01",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Birštonas",
+      "en": "Birstonas",
+      "slug": "birstonas-lt08m01"
+    },
+    "code": {
+      "id": "LT08M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT08",
+      "level": 1,
+      "name": {
+        "local": "Kaunas",
+        "en": "Kaunas",
+        "slug": "kaunas-lt08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT08",
+        "level": 1,
+        "name": {
+          "local": "Kaunas",
+          "en": "Kaunas",
+          "slug": "kaunas-lt08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.588",
+      "lon": "24.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT03M02",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Marijampole",
+      "en": "Marijampole",
+      "slug": "marijampole-lt03m02"
+    },
+    "code": {
+      "id": "LT03M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT03",
+      "level": 1,
+      "name": {
+        "local": "Marijampole",
+        "en": "Marijampole",
+        "slug": "marijampole-lt03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT03",
+        "level": 1,
+        "name": {
+          "local": "Marijampole",
+          "en": "Marijampole",
+          "slug": "marijampole-lt03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.562",
+      "lon": "23.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT05M02",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Å alcininkai",
+      "en": "A alcininkai",
+      "slug": "a-alcininkai-lt05m02"
+    },
+    "code": {
+      "id": "LT05M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT05",
+      "level": 1,
+      "name": {
+        "local": "Vilnius",
+        "en": "Vilnius",
+        "slug": "vilnius-lt05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT05",
+        "level": 1,
+        "name": {
+          "local": "Vilnius",
+          "en": "Vilnius",
+          "slug": "vilnius-lt05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.323",
+      "lon": "25.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT03M03",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vilkaviškis",
+      "en": "Vilkaviskis",
+      "slug": "vilkaviskis-lt03m03"
+    },
+    "code": {
+      "id": "LT03M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT03",
+      "level": 1,
+      "name": {
+        "local": "Marijampole",
+        "en": "Marijampole",
+        "slug": "marijampole-lt03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT03",
+        "level": 1,
+        "name": {
+          "local": "Marijampole",
+          "en": "Marijampole",
+          "slug": "marijampole-lt03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.609",
+      "lon": "22.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT08M02",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Prienai",
+      "en": "Prienai",
+      "slug": "prienai-lt08m02"
+    },
+    "code": {
+      "id": "LT08M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT08",
+      "level": 1,
+      "name": {
+        "local": "Kaunas",
+        "en": "Kaunas",
+        "slug": "kaunas-lt08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT08",
+        "level": 1,
+        "name": {
+          "local": "Kaunas",
+          "en": "Kaunas",
+          "slug": "kaunas-lt08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.639",
+      "lon": "23.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT05M03",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Trakai",
+      "en": "Trakai",
+      "slug": "trakai-lt05m03"
+    },
+    "code": {
+      "id": "LT05M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT05",
+      "level": 1,
+      "name": {
+        "local": "Vilnius",
+        "en": "Vilnius",
+        "slug": "vilnius-lt05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT05",
+        "level": 1,
+        "name": {
+          "local": "Vilnius",
+          "en": "Vilnius",
+          "slug": "vilnius-lt05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.526",
+      "lon": "24.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT03M04",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Kazlu Ruda",
+      "en": "Kazlu Ruda",
+      "slug": "kazlu-ruda-lt03m04"
+    },
+    "code": {
+      "id": "LT03M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT03",
+      "level": 1,
+      "name": {
+        "local": "Marijampole",
+        "en": "Marijampole",
+        "slug": "marijampole-lt03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT03",
+        "level": 1,
+        "name": {
+          "local": "Marijampole",
+          "en": "Marijampole",
+          "slug": "marijampole-lt03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.796",
+      "lon": "23.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT08M03",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Kaunas",
+      "en": "Kaunas",
+      "slug": "kaunas-lt08m03"
+    },
+    "code": {
+      "id": "LT08M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT08",
+      "level": 1,
+      "name": {
+        "local": "Kaunas",
+        "en": "Kaunas",
+        "slug": "kaunas-lt08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT08",
+        "level": 1,
+        "name": {
+          "local": "Kaunas",
+          "en": "Kaunas",
+          "slug": "kaunas-lt08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.902",
+      "lon": "23.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT05M04",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Elektrenai",
+      "en": "Elektrenai",
+      "slug": "elektrenai-lt05m04"
+    },
+    "code": {
+      "id": "LT05M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT05",
+      "level": 1,
+      "name": {
+        "local": "Vilnius",
+        "en": "Vilnius",
+        "slug": "vilnius-lt05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT05",
+        "level": 1,
+        "name": {
+          "local": "Vilnius",
+          "en": "Vilnius",
+          "slug": "vilnius-lt05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.734",
+      "lon": "24.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT03M05",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Å akiai",
+      "en": "A akiai",
+      "slug": "a-akiai-lt03m05"
+    },
+    "code": {
+      "id": "LT03M05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT03",
+      "level": 1,
+      "name": {
+        "local": "Marijampole",
+        "en": "Marijampole",
+        "slug": "marijampole-lt03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT03",
+        "level": 1,
+        "name": {
+          "local": "Marijampole",
+          "en": "Marijampole",
+          "slug": "marijampole-lt03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.92",
+      "lon": "23.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT08M04",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Kaišiadorys",
+      "en": "Kaisiadorys",
+      "slug": "kaisiadorys-lt08m04"
+    },
+    "code": {
+      "id": "LT08M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT08",
+      "level": 1,
+      "name": {
+        "local": "Kaunas",
+        "en": "Kaunas",
+        "slug": "kaunas-lt08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT08",
+        "level": 1,
+        "name": {
+          "local": "Kaunas",
+          "en": "Kaunas",
+          "slug": "kaunas-lt08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.829",
+      "lon": "24.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT07M01",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pagegiai",
+      "en": "Pagegiai",
+      "slug": "pagegiai-lt07m01"
+    },
+    "code": {
+      "id": "LT07M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT07",
+      "level": 1,
+      "name": {
+        "local": "Taurage",
+        "en": "Taurage",
+        "slug": "taurage-lt07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT07",
+        "level": 1,
+        "name": {
+          "local": "Taurage",
+          "en": "Taurage",
+          "slug": "taurage-lt07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.17",
+      "lon": "21.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT07M02",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jurbarkas",
+      "en": "Jurbarkas",
+      "slug": "jurbarkas-lt07m02"
+    },
+    "code": {
+      "id": "LT07M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT07",
+      "level": 1,
+      "name": {
+        "local": "Taurage",
+        "en": "Taurage",
+        "slug": "taurage-lt07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT07",
+        "level": 1,
+        "name": {
+          "local": "Taurage",
+          "en": "Taurage",
+          "slug": "taurage-lt07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.194",
+      "lon": "22.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT05M05",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Å irvintos",
+      "en": "A irvintos",
+      "slug": "a-irvintos-lt05m05"
+    },
+    "code": {
+      "id": "LT05M05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT05",
+      "level": 1,
+      "name": {
+        "local": "Vilnius",
+        "en": "Vilnius",
+        "slug": "vilnius-lt05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT05",
+        "level": 1,
+        "name": {
+          "local": "Vilnius",
+          "en": "Vilnius",
+          "slug": "vilnius-lt05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.997",
+      "lon": "24.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT07M03",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Taurage",
+      "en": "Taurage",
+      "slug": "taurage-lt07m03"
+    },
+    "code": {
+      "id": "LT07M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT07",
+      "level": 1,
+      "name": {
+        "local": "Taurage",
+        "en": "Taurage",
+        "slug": "taurage-lt07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT07",
+        "level": 1,
+        "name": {
+          "local": "Taurage",
+          "en": "Taurage",
+          "slug": "taurage-lt07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.288",
+      "lon": "22.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT08M05",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jonava",
+      "en": "Jonava",
+      "slug": "jonava-lt08m05"
+    },
+    "code": {
+      "id": "LT08M05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT08",
+      "level": 1,
+      "name": {
+        "local": "Kaunas",
+        "en": "Kaunas",
+        "slug": "kaunas-lt08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT08",
+        "level": 1,
+        "name": {
+          "local": "Kaunas",
+          "en": "Kaunas",
+          "slug": "kaunas-lt08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.115",
+      "lon": "24.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT02M01",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Å ilute",
+      "en": "A ilute",
+      "slug": "a-ilute-lt02m01"
+    },
+    "code": {
+      "id": "LT02M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT02",
+      "level": 1,
+      "name": {
+        "local": "Klaipeda",
+        "en": "Klaipeda",
+        "slug": "klaipeda-lt02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT02",
+        "level": 1,
+        "name": {
+          "local": "Klaipeda",
+          "en": "Klaipeda",
+          "slug": "klaipeda-lt02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.377",
+      "lon": "21.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT02M02",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Neringa",
+      "en": "Neringa",
+      "slug": "neringa-lt02m02"
+    },
+    "code": {
+      "id": "LT02M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT02",
+      "level": 1,
+      "name": {
+        "local": "Klaipeda",
+        "en": "Klaipeda",
+        "slug": "klaipeda-lt02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT02",
+        "level": 1,
+        "name": {
+          "local": "Klaipeda",
+          "en": "Klaipeda",
+          "slug": "klaipeda-lt02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.344",
+      "lon": "21.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT02M03",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Klaipeda",
+      "en": "Klaipeda",
+      "slug": "klaipeda-lt02m03"
+    },
+    "code": {
+      "id": "LT02M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT02",
+      "level": 1,
+      "name": {
+        "local": "Klaipeda",
+        "en": "Klaipeda",
+        "slug": "klaipeda-lt02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT02",
+        "level": 1,
+        "name": {
+          "local": "Klaipeda",
+          "en": "Klaipeda",
+          "slug": "klaipeda-lt02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.686",
+      "lon": "21.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT08M06",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Raseiniai",
+      "en": "Raseiniai",
+      "slug": "raseiniai-lt08m06"
+    },
+    "code": {
+      "id": "LT08M06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT08",
+      "level": 1,
+      "name": {
+        "local": "Kaunas",
+        "en": "Kaunas",
+        "slug": "kaunas-lt08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT08",
+        "level": 1,
+        "name": {
+          "local": "Kaunas",
+          "en": "Kaunas",
+          "slug": "kaunas-lt08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.398",
+      "lon": "23.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT07M04",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Å ilale",
+      "en": "A ilale",
+      "slug": "a-ilale-lt07m04"
+    },
+    "code": {
+      "id": "LT07M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT07",
+      "level": 1,
+      "name": {
+        "local": "Taurage",
+        "en": "Taurage",
+        "slug": "taurage-lt07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT07",
+        "level": 1,
+        "name": {
+          "local": "Taurage",
+          "en": "Taurage",
+          "slug": "taurage-lt07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.517",
+      "lon": "22.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT08M07",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Kedainiai",
+      "en": "Kedainiai",
+      "slug": "kedainiai-lt08m07"
+    },
+    "code": {
+      "id": "LT08M07",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT08",
+      "level": 1,
+      "name": {
+        "local": "Kaunas",
+        "en": "Kaunas",
+        "slug": "kaunas-lt08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT08",
+        "level": 1,
+        "name": {
+          "local": "Kaunas",
+          "en": "Kaunas",
+          "slug": "kaunas-lt08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.335",
+      "lon": "23.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT10M01",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Moletai",
+      "en": "Moletai",
+      "slug": "moletai-lt10m01"
+    },
+    "code": {
+      "id": "LT10M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT10",
+      "level": 1,
+      "name": {
+        "local": "Utena",
+        "en": "Utena",
+        "slug": "utena-lt10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT10",
+        "level": 1,
+        "name": {
+          "local": "Utena",
+          "en": "Utena",
+          "slug": "utena-lt10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.213",
+      "lon": "25.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT05M06",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ukmerge",
+      "en": "Ukmerge",
+      "slug": "ukmerge-lt05m06"
+    },
+    "code": {
+      "id": "LT05M06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT05",
+      "level": 1,
+      "name": {
+        "local": "Vilnius",
+        "en": "Vilnius",
+        "slug": "vilnius-lt05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT05",
+        "level": 1,
+        "name": {
+          "local": "Vilnius",
+          "en": "Vilnius",
+          "slug": "vilnius-lt05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.258",
+      "lon": "24.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT05M07",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Å vencionys",
+      "en": "A vencionys",
+      "slug": "a-vencionys-lt05m07"
+    },
+    "code": {
+      "id": "LT05M07",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT05",
+      "level": 1,
+      "name": {
+        "local": "Vilnius",
+        "en": "Vilnius",
+        "slug": "vilnius-lt05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT05",
+        "level": 1,
+        "name": {
+          "local": "Vilnius",
+          "en": "Vilnius",
+          "slug": "vilnius-lt05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.112",
+      "lon": "26.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT01M01",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rietavas",
+      "en": "Rietavas",
+      "slug": "rietavas-lt01m01"
+    },
+    "code": {
+      "id": "LT01M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT01",
+      "level": 1,
+      "name": {
+        "local": "Telšiai",
+        "en": "Telsiai",
+        "slug": "telsiai-lt01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT01",
+        "level": 1,
+        "name": {
+          "local": "Telšiai",
+          "en": "Telsiai",
+          "slug": "telsiai-lt01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.727",
+      "lon": "21.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT04M01",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Kelme",
+      "en": "Kelme",
+      "slug": "kelme-lt04m01"
+    },
+    "code": {
+      "id": "LT04M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT04",
+      "level": 1,
+      "name": {
+        "local": "Šiauliai",
+        "en": "Siauliai",
+        "slug": "siauliai-lt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT04",
+        "level": 1,
+        "name": {
+          "local": "Šiauliai",
+          "en": "Siauliai",
+          "slug": "siauliai-lt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.664",
+      "lon": "22.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT02M04",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Palanga",
+      "en": "Palanga",
+      "slug": "palanga-lt02m04"
+    },
+    "code": {
+      "id": "LT02M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT02",
+      "level": 1,
+      "name": {
+        "local": "Klaipeda",
+        "en": "Klaipeda",
+        "slug": "klaipeda-lt02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT02",
+        "level": 1,
+        "name": {
+          "local": "Klaipeda",
+          "en": "Klaipeda",
+          "slug": "klaipeda-lt02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.961",
+      "lon": "21.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT09M01",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Panevežys",
+      "en": "Panevezys",
+      "slug": "panevezys-lt09m01"
+    },
+    "code": {
+      "id": "LT09M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT09",
+      "level": 1,
+      "name": {
+        "local": "Panevežys",
+        "en": "Panevezys",
+        "slug": "panevezys-lt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT09",
+        "level": 1,
+        "name": {
+          "local": "Panevežys",
+          "en": "Panevezys",
+          "slug": "panevezys-lt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.729",
+      "lon": "24.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT04M02",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Radviliškis",
+      "en": "Radviliskis",
+      "slug": "radviliskis-lt04m02"
+    },
+    "code": {
+      "id": "LT04M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT04",
+      "level": 1,
+      "name": {
+        "local": "Šiauliai",
+        "en": "Siauliai",
+        "slug": "siauliai-lt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT04",
+        "level": 1,
+        "name": {
+          "local": "Šiauliai",
+          "en": "Siauliai",
+          "slug": "siauliai-lt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.685",
+      "lon": "23.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT02M05",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Kretinga",
+      "en": "Kretinga",
+      "slug": "kretinga-lt02m05"
+    },
+    "code": {
+      "id": "LT02M05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT02",
+      "level": 1,
+      "name": {
+        "local": "Klaipeda",
+        "en": "Klaipeda",
+        "slug": "klaipeda-lt02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT02",
+        "level": 1,
+        "name": {
+          "local": "Klaipeda",
+          "en": "Klaipeda",
+          "slug": "klaipeda-lt02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.977",
+      "lon": "21.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT04M03",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Šiauliai",
+      "en": "Siauliai",
+      "slug": "siauliai-lt04m03"
+    },
+    "code": {
+      "id": "LT04M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT04",
+      "level": 1,
+      "name": {
+        "local": "Šiauliai",
+        "en": "Siauliai",
+        "slug": "siauliai-lt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT04",
+        "level": 1,
+        "name": {
+          "local": "Šiauliai",
+          "en": "Siauliai",
+          "slug": "siauliai-lt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.93",
+      "lon": "23.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT10M02",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ignalina",
+      "en": "Ignalina",
+      "slug": "ignalina-lt10m02"
+    },
+    "code": {
+      "id": "LT10M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT10",
+      "level": 1,
+      "name": {
+        "local": "Utena",
+        "en": "Utena",
+        "slug": "utena-lt10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT10",
+        "level": 1,
+        "name": {
+          "local": "Utena",
+          "en": "Utena",
+          "slug": "utena-lt10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.415",
+      "lon": "26.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT10M03",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Anykšciai",
+      "en": "Anyksciai",
+      "slug": "anyksciai-lt10m03"
+    },
+    "code": {
+      "id": "LT10M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT10",
+      "level": 1,
+      "name": {
+        "local": "Utena",
+        "en": "Utena",
+        "slug": "utena-lt10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT10",
+        "level": 1,
+        "name": {
+          "local": "Utena",
+          "en": "Utena",
+          "slug": "utena-lt10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.522",
+      "lon": "25.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT10M04",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Visaginas",
+      "en": "Visaginas",
+      "slug": "visaginas-lt10m04"
+    },
+    "code": {
+      "id": "LT10M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT10",
+      "level": 1,
+      "name": {
+        "local": "Utena",
+        "en": "Utena",
+        "slug": "utena-lt10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT10",
+        "level": 1,
+        "name": {
+          "local": "Utena",
+          "en": "Utena",
+          "slug": "utena-lt10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.585",
+      "lon": "26.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT10M05",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Utena",
+      "en": "Utena",
+      "slug": "utena-lt10m05"
+    },
+    "code": {
+      "id": "LT10M05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT10",
+      "level": 1,
+      "name": {
+        "local": "Utena",
+        "en": "Utena",
+        "slug": "utena-lt10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT10",
+        "level": 1,
+        "name": {
+          "local": "Utena",
+          "en": "Utena",
+          "slug": "utena-lt10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.526",
+      "lon": "25.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT01M02",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Plunge",
+      "en": "Plunge",
+      "slug": "plunge-lt01m02"
+    },
+    "code": {
+      "id": "LT01M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT01",
+      "level": 1,
+      "name": {
+        "local": "Telšiai",
+        "en": "Telsiai",
+        "slug": "telsiai-lt01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT01",
+        "level": 1,
+        "name": {
+          "local": "Telšiai",
+          "en": "Telsiai",
+          "slug": "telsiai-lt01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.945",
+      "lon": "21.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT01M03",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Telšiai",
+      "en": "Telsiai",
+      "slug": "telsiai-lt01m03"
+    },
+    "code": {
+      "id": "LT01M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT01",
+      "level": 1,
+      "name": {
+        "local": "Telšiai",
+        "en": "Telsiai",
+        "slug": "telsiai-lt01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT01",
+        "level": 1,
+        "name": {
+          "local": "Telšiai",
+          "en": "Telsiai",
+          "slug": "telsiai-lt01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.928",
+      "lon": "22.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT09M02",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Kupiškis",
+      "en": "Kupiskis",
+      "slug": "kupiskis-lt09m02"
+    },
+    "code": {
+      "id": "LT09M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT09",
+      "level": 1,
+      "name": {
+        "local": "Panevežys",
+        "en": "Panevezys",
+        "slug": "panevezys-lt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT09",
+        "level": 1,
+        "name": {
+          "local": "Panevežys",
+          "en": "Panevezys",
+          "slug": "panevezys-lt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.85",
+      "lon": "25.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT10M06",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zarasai",
+      "en": "Zarasai",
+      "slug": "zarasai-lt10m06"
+    },
+    "code": {
+      "id": "LT10M06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT10",
+      "level": 1,
+      "name": {
+        "local": "Utena",
+        "en": "Utena",
+        "slug": "utena-lt10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT10",
+        "level": 1,
+        "name": {
+          "local": "Utena",
+          "en": "Utena",
+          "slug": "utena-lt10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.71",
+      "lon": "26.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT02M06",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Skuodas",
+      "en": "Skuodas",
+      "slug": "skuodas-lt02m06"
+    },
+    "code": {
+      "id": "LT02M06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT02",
+      "level": 1,
+      "name": {
+        "local": "Klaipeda",
+        "en": "Klaipeda",
+        "slug": "klaipeda-lt02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT02",
+        "level": 1,
+        "name": {
+          "local": "Klaipeda",
+          "en": "Klaipeda",
+          "slug": "klaipeda-lt02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.194",
+      "lon": "21.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT01M04",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mažeikiai",
+      "en": "Mazeikiai",
+      "slug": "mazeikiai-lt01m04"
+    },
+    "code": {
+      "id": "LT01M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT01",
+      "level": 1,
+      "name": {
+        "local": "Telšiai",
+        "en": "Telsiai",
+        "slug": "telsiai-lt01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT01",
+        "level": 1,
+        "name": {
+          "local": "Telšiai",
+          "en": "Telsiai",
+          "slug": "telsiai-lt01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.284",
+      "lon": "22.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT04M04",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Akmene",
+      "en": "Akmene",
+      "slug": "akmene-lt04m04"
+    },
+    "code": {
+      "id": "LT04M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT04",
+      "level": 1,
+      "name": {
+        "local": "Šiauliai",
+        "en": "Siauliai",
+        "slug": "siauliai-lt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT04",
+        "level": 1,
+        "name": {
+          "local": "Šiauliai",
+          "en": "Siauliai",
+          "slug": "siauliai-lt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.223",
+      "lon": "22.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT04M05",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pakruojis",
+      "en": "Pakruojis",
+      "slug": "pakruojis-lt04m05"
+    },
+    "code": {
+      "id": "LT04M05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT04",
+      "level": 1,
+      "name": {
+        "local": "Šiauliai",
+        "en": "Siauliai",
+        "slug": "siauliai-lt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT04",
+        "level": 1,
+        "name": {
+          "local": "Šiauliai",
+          "en": "Siauliai",
+          "slug": "siauliai-lt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.029",
+      "lon": "23.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT09M03",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pasvalys",
+      "en": "Pasvalys",
+      "slug": "pasvalys-lt09m03"
+    },
+    "code": {
+      "id": "LT09M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT09",
+      "level": 1,
+      "name": {
+        "local": "Panevežys",
+        "en": "Panevezys",
+        "slug": "panevezys-lt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT09",
+        "level": 1,
+        "name": {
+          "local": "Panevežys",
+          "en": "Panevezys",
+          "slug": "panevezys-lt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.093",
+      "lon": "24.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT09M04",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rokiškis",
+      "en": "Rokiskis",
+      "slug": "rokiskis-lt09m04"
+    },
+    "code": {
+      "id": "LT09M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT09",
+      "level": 1,
+      "name": {
+        "local": "Panevežys",
+        "en": "Panevezys",
+        "slug": "panevezys-lt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT09",
+        "level": 1,
+        "name": {
+          "local": "Panevežys",
+          "en": "Panevezys",
+          "slug": "panevezys-lt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.942",
+      "lon": "25.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT04M06",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Joniškis",
+      "en": "Joniskis",
+      "slug": "joniskis-lt04m06"
+    },
+    "code": {
+      "id": "LT04M06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT04",
+      "level": 1,
+      "name": {
+        "local": "Šiauliai",
+        "en": "Siauliai",
+        "slug": "siauliai-lt04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT04",
+        "level": 1,
+        "name": {
+          "local": "Šiauliai",
+          "en": "Siauliai",
+          "slug": "siauliai-lt04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.207",
+      "lon": "23.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT09M05",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Biržai",
+      "en": "Birzai",
+      "slug": "birzai-lt09m05"
+    },
+    "code": {
+      "id": "LT09M05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT09",
+      "level": 1,
+      "name": {
+        "local": "Panevežys",
+        "en": "Panevezys",
+        "slug": "panevezys-lt09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT09",
+        "level": 1,
+        "name": {
+          "local": "Panevežys",
+          "en": "Panevezys",
+          "slug": "panevezys-lt09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.198",
+      "lon": "24.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT06M04",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alytus",
+      "en": "Alytus",
+      "slug": "alytus-lt06m04"
+    },
+    "code": {
+      "id": "LT06M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT06",
+      "level": 1,
+      "name": {
+        "local": "Alytus",
+        "en": "Alytus",
+        "slug": "alytus-lt06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT06",
+        "level": 1,
+        "name": {
+          "local": "Alytus",
+          "en": "Alytus",
+          "slug": "alytus-lt06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.402",
+      "lon": "24.025"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

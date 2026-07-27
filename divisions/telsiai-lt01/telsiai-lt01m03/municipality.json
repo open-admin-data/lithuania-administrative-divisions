@@ -1,0 +1,45 @@
+{
+  "id": "LT01M03",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Telšiai",
+    "en": "Telsiai",
+    "slug": "telsiai-lt01m03"
+  },
+  "code": {
+    "id": "LT01M03",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT01",
+    "level": 1,
+    "name": {
+      "local": "Telšiai",
+      "en": "Telsiai",
+      "slug": "telsiai-lt01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT01",
+      "level": 1,
+      "name": {
+        "local": "Telšiai",
+        "en": "Telsiai",
+        "slug": "telsiai-lt01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.928",
+    "lon": "22.368"
+  },
+  "metadata": {},
+  "source": {}
+}

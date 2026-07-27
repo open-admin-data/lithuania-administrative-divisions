@@ -1,0 +1,39 @@
+# Utena — Lithuania Administrative Divisions
+
+> 6 municipalitys
+> Code: LT10
+> Coordinates: 55.436, 25.443
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Anykšciai (Anyksciai)
+
+Code: LT10M03, Coordinates: 55.522, 25.023
+
+
+### Ignalina
+
+Code: LT10M02, Coordinates: 55.415, 26.307
+
+
+### Moletai
+
+Code: LT10M01, Coordinates: 55.213, 25.443
+
+
+### Utena
+
+Code: LT10M05, Coordinates: 55.526, 25.668
+
+
+### Visaginas
+
+Code: LT10M04, Coordinates: 55.585, 26.493
+
+
+### Zarasai
+
+Code: LT10M06, Coordinates: 55.71, 26.094
+
+

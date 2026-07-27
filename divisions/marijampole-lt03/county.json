@@ -1,0 +1,33 @@
+{
+  "id": "LT03",
+  "level": 1,
+  "level_name": {
+    "local": "Apskritis",
+    "en": "County"
+  },
+  "name": {
+    "local": "Marijampole",
+    "en": "Marijampole",
+    "slug": "marijampole-lt03"
+  },
+  "code": {
+    "id": "LT03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.69",
+    "lon": "23.182"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lt/counties/marijampole-lt03/",
+    "api": "https://openadmindata.org/api/lt/"
+  }
+}

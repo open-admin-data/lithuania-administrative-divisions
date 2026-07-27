@@ -1,0 +1,317 @@
+[
+  {
+    "id": "LT05M02",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Å alcininkai",
+      "en": "A alcininkai",
+      "slug": "a-alcininkai-lt05m02"
+    },
+    "code": {
+      "id": "LT05M02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT05",
+      "level": 1,
+      "name": {
+        "local": "Vilnius",
+        "en": "Vilnius",
+        "slug": "vilnius-lt05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT05",
+        "level": 1,
+        "name": {
+          "local": "Vilnius",
+          "en": "Vilnius",
+          "slug": "vilnius-lt05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.323",
+      "lon": "25.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT05M05",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Å irvintos",
+      "en": "A irvintos",
+      "slug": "a-irvintos-lt05m05"
+    },
+    "code": {
+      "id": "LT05M05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT05",
+      "level": 1,
+      "name": {
+        "local": "Vilnius",
+        "en": "Vilnius",
+        "slug": "vilnius-lt05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT05",
+        "level": 1,
+        "name": {
+          "local": "Vilnius",
+          "en": "Vilnius",
+          "slug": "vilnius-lt05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.997",
+      "lon": "24.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT05M07",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Å vencionys",
+      "en": "A vencionys",
+      "slug": "a-vencionys-lt05m07"
+    },
+    "code": {
+      "id": "LT05M07",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT05",
+      "level": 1,
+      "name": {
+        "local": "Vilnius",
+        "en": "Vilnius",
+        "slug": "vilnius-lt05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT05",
+        "level": 1,
+        "name": {
+          "local": "Vilnius",
+          "en": "Vilnius",
+          "slug": "vilnius-lt05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.112",
+      "lon": "26.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT05M04",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Elektrenai",
+      "en": "Elektrenai",
+      "slug": "elektrenai-lt05m04"
+    },
+    "code": {
+      "id": "LT05M04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT05",
+      "level": 1,
+      "name": {
+        "local": "Vilnius",
+        "en": "Vilnius",
+        "slug": "vilnius-lt05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT05",
+        "level": 1,
+        "name": {
+          "local": "Vilnius",
+          "en": "Vilnius",
+          "slug": "vilnius-lt05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.734",
+      "lon": "24.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT05M03",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Trakai",
+      "en": "Trakai",
+      "slug": "trakai-lt05m03"
+    },
+    "code": {
+      "id": "LT05M03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT05",
+      "level": 1,
+      "name": {
+        "local": "Vilnius",
+        "en": "Vilnius",
+        "slug": "vilnius-lt05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT05",
+        "level": 1,
+        "name": {
+          "local": "Vilnius",
+          "en": "Vilnius",
+          "slug": "vilnius-lt05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.526",
+      "lon": "24.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT05M06",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ukmerge",
+      "en": "Ukmerge",
+      "slug": "ukmerge-lt05m06"
+    },
+    "code": {
+      "id": "LT05M06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT05",
+      "level": 1,
+      "name": {
+        "local": "Vilnius",
+        "en": "Vilnius",
+        "slug": "vilnius-lt05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT05",
+        "level": 1,
+        "name": {
+          "local": "Vilnius",
+          "en": "Vilnius",
+          "slug": "vilnius-lt05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.258",
+      "lon": "24.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LT05M01",
+    "level": 2,
+    "level_name": {
+      "local": "Savivaldybė",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vilnius",
+      "en": "Vilnius",
+      "slug": "vilnius-lt05m01"
+    },
+    "code": {
+      "id": "LT05M01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LT05",
+      "level": 1,
+      "name": {
+        "local": "Vilnius",
+        "en": "Vilnius",
+        "slug": "vilnius-lt05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LT05",
+        "level": 1,
+        "name": {
+          "local": "Vilnius",
+          "en": "Vilnius",
+          "slug": "vilnius-lt05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.701",
+      "lon": "25.252"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

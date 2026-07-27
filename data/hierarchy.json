@@ -1,0 +1,793 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/lt/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/lithuania-administrative-divisions",
+  "data": [
+    {
+      "id": "LT01",
+      "name": {
+        "local": "Telšiai",
+        "en": "Telsiai",
+        "slug": "telsiai-lt01"
+      },
+      "code": {
+        "id": "LT01",
+        "iso": null
+      },
+      "municipality": [
+        {
+          "id": "LT01M01",
+          "name": {
+            "local": "Rietavas",
+            "en": "Rietavas",
+            "slug": "rietavas-lt01m01"
+          },
+          "code": {
+            "id": "LT01M01",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT01M02",
+          "name": {
+            "local": "Plunge",
+            "en": "Plunge",
+            "slug": "plunge-lt01m02"
+          },
+          "code": {
+            "id": "LT01M02",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT01M03",
+          "name": {
+            "local": "Telšiai",
+            "en": "Telsiai",
+            "slug": "telsiai-lt01m03"
+          },
+          "code": {
+            "id": "LT01M03",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT01M04",
+          "name": {
+            "local": "Mažeikiai",
+            "en": "Mazeikiai",
+            "slug": "mazeikiai-lt01m04"
+          },
+          "code": {
+            "id": "LT01M04",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LT02",
+      "name": {
+        "local": "Klaipeda",
+        "en": "Klaipeda",
+        "slug": "klaipeda-lt02"
+      },
+      "code": {
+        "id": "LT02",
+        "iso": null
+      },
+      "municipality": [
+        {
+          "id": "LT02M01",
+          "name": {
+            "local": "Å ilute",
+            "en": "A ilute",
+            "slug": "a-ilute-lt02m01"
+          },
+          "code": {
+            "id": "LT02M01",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT02M02",
+          "name": {
+            "local": "Neringa",
+            "en": "Neringa",
+            "slug": "neringa-lt02m02"
+          },
+          "code": {
+            "id": "LT02M02",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT02M03",
+          "name": {
+            "local": "Klaipeda",
+            "en": "Klaipeda",
+            "slug": "klaipeda-lt02m03"
+          },
+          "code": {
+            "id": "LT02M03",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT02M04",
+          "name": {
+            "local": "Palanga",
+            "en": "Palanga",
+            "slug": "palanga-lt02m04"
+          },
+          "code": {
+            "id": "LT02M04",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT02M05",
+          "name": {
+            "local": "Kretinga",
+            "en": "Kretinga",
+            "slug": "kretinga-lt02m05"
+          },
+          "code": {
+            "id": "LT02M05",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT02M06",
+          "name": {
+            "local": "Skuodas",
+            "en": "Skuodas",
+            "slug": "skuodas-lt02m06"
+          },
+          "code": {
+            "id": "LT02M06",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LT03",
+      "name": {
+        "local": "Marijampole",
+        "en": "Marijampole",
+        "slug": "marijampole-lt03"
+      },
+      "code": {
+        "id": "LT03",
+        "iso": null
+      },
+      "municipality": [
+        {
+          "id": "LT03M01",
+          "name": {
+            "local": "Kalvarija",
+            "en": "Kalvarija",
+            "slug": "kalvarija-lt03m01"
+          },
+          "code": {
+            "id": "LT03M01",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT03M02",
+          "name": {
+            "local": "Marijampole",
+            "en": "Marijampole",
+            "slug": "marijampole-lt03m02"
+          },
+          "code": {
+            "id": "LT03M02",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT03M03",
+          "name": {
+            "local": "Vilkaviškis",
+            "en": "Vilkaviskis",
+            "slug": "vilkaviskis-lt03m03"
+          },
+          "code": {
+            "id": "LT03M03",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT03M04",
+          "name": {
+            "local": "Kazlu Ruda",
+            "en": "Kazlu Ruda",
+            "slug": "kazlu-ruda-lt03m04"
+          },
+          "code": {
+            "id": "LT03M04",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT03M05",
+          "name": {
+            "local": "Å akiai",
+            "en": "A akiai",
+            "slug": "a-akiai-lt03m05"
+          },
+          "code": {
+            "id": "LT03M05",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LT04",
+      "name": {
+        "local": "Šiauliai",
+        "en": "Siauliai",
+        "slug": "siauliai-lt04"
+      },
+      "code": {
+        "id": "LT04",
+        "iso": null
+      },
+      "municipality": [
+        {
+          "id": "LT04M01",
+          "name": {
+            "local": "Kelme",
+            "en": "Kelme",
+            "slug": "kelme-lt04m01"
+          },
+          "code": {
+            "id": "LT04M01",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT04M02",
+          "name": {
+            "local": "Radviliškis",
+            "en": "Radviliskis",
+            "slug": "radviliskis-lt04m02"
+          },
+          "code": {
+            "id": "LT04M02",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT04M03",
+          "name": {
+            "local": "Šiauliai",
+            "en": "Siauliai",
+            "slug": "siauliai-lt04m03"
+          },
+          "code": {
+            "id": "LT04M03",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT04M04",
+          "name": {
+            "local": "Akmene",
+            "en": "Akmene",
+            "slug": "akmene-lt04m04"
+          },
+          "code": {
+            "id": "LT04M04",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT04M05",
+          "name": {
+            "local": "Pakruojis",
+            "en": "Pakruojis",
+            "slug": "pakruojis-lt04m05"
+          },
+          "code": {
+            "id": "LT04M05",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT04M06",
+          "name": {
+            "local": "Joniškis",
+            "en": "Joniskis",
+            "slug": "joniskis-lt04m06"
+          },
+          "code": {
+            "id": "LT04M06",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LT05",
+      "name": {
+        "local": "Vilnius",
+        "en": "Vilnius",
+        "slug": "vilnius-lt05"
+      },
+      "code": {
+        "id": "LT05",
+        "iso": null
+      },
+      "municipality": [
+        {
+          "id": "LT05M01",
+          "name": {
+            "local": "Vilnius",
+            "en": "Vilnius",
+            "slug": "vilnius-lt05m01"
+          },
+          "code": {
+            "id": "LT05M01",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT05M02",
+          "name": {
+            "local": "Å alcininkai",
+            "en": "A alcininkai",
+            "slug": "a-alcininkai-lt05m02"
+          },
+          "code": {
+            "id": "LT05M02",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT05M03",
+          "name": {
+            "local": "Trakai",
+            "en": "Trakai",
+            "slug": "trakai-lt05m03"
+          },
+          "code": {
+            "id": "LT05M03",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT05M04",
+          "name": {
+            "local": "Elektrenai",
+            "en": "Elektrenai",
+            "slug": "elektrenai-lt05m04"
+          },
+          "code": {
+            "id": "LT05M04",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT05M05",
+          "name": {
+            "local": "Å irvintos",
+            "en": "A irvintos",
+            "slug": "a-irvintos-lt05m05"
+          },
+          "code": {
+            "id": "LT05M05",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT05M06",
+          "name": {
+            "local": "Ukmerge",
+            "en": "Ukmerge",
+            "slug": "ukmerge-lt05m06"
+          },
+          "code": {
+            "id": "LT05M06",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT05M07",
+          "name": {
+            "local": "Å vencionys",
+            "en": "A vencionys",
+            "slug": "a-vencionys-lt05m07"
+          },
+          "code": {
+            "id": "LT05M07",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LT06",
+      "name": {
+        "local": "Alytus",
+        "en": "Alytus",
+        "slug": "alytus-lt06"
+      },
+      "code": {
+        "id": "LT06",
+        "iso": null
+      },
+      "municipality": [
+        {
+          "id": "LT06M01",
+          "name": {
+            "local": "Druskininkai",
+            "en": "Druskininkai",
+            "slug": "druskininkai-lt06m01"
+          },
+          "code": {
+            "id": "LT06M01",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT06M02",
+          "name": {
+            "local": "Lazdijai",
+            "en": "Lazdijai",
+            "slug": "lazdijai-lt06m02"
+          },
+          "code": {
+            "id": "LT06M02",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT06M03",
+          "name": {
+            "local": "Varena",
+            "en": "Varena",
+            "slug": "varena-lt06m03"
+          },
+          "code": {
+            "id": "LT06M03",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT06M04",
+          "name": {
+            "local": "Alytus",
+            "en": "Alytus",
+            "slug": "alytus-lt06m04"
+          },
+          "code": {
+            "id": "LT06M04",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LT07",
+      "name": {
+        "local": "Taurage",
+        "en": "Taurage",
+        "slug": "taurage-lt07"
+      },
+      "code": {
+        "id": "LT07",
+        "iso": null
+      },
+      "municipality": [
+        {
+          "id": "LT07M01",
+          "name": {
+            "local": "Pagegiai",
+            "en": "Pagegiai",
+            "slug": "pagegiai-lt07m01"
+          },
+          "code": {
+            "id": "LT07M01",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT07M02",
+          "name": {
+            "local": "Jurbarkas",
+            "en": "Jurbarkas",
+            "slug": "jurbarkas-lt07m02"
+          },
+          "code": {
+            "id": "LT07M02",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT07M03",
+          "name": {
+            "local": "Taurage",
+            "en": "Taurage",
+            "slug": "taurage-lt07m03"
+          },
+          "code": {
+            "id": "LT07M03",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT07M04",
+          "name": {
+            "local": "Å ilale",
+            "en": "A ilale",
+            "slug": "a-ilale-lt07m04"
+          },
+          "code": {
+            "id": "LT07M04",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LT08",
+      "name": {
+        "local": "Kaunas",
+        "en": "Kaunas",
+        "slug": "kaunas-lt08"
+      },
+      "code": {
+        "id": "LT08",
+        "iso": null
+      },
+      "municipality": [
+        {
+          "id": "LT08M01",
+          "name": {
+            "local": "Birštonas",
+            "en": "Birstonas",
+            "slug": "birstonas-lt08m01"
+          },
+          "code": {
+            "id": "LT08M01",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT08M02",
+          "name": {
+            "local": "Prienai",
+            "en": "Prienai",
+            "slug": "prienai-lt08m02"
+          },
+          "code": {
+            "id": "LT08M02",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT08M03",
+          "name": {
+            "local": "Kaunas",
+            "en": "Kaunas",
+            "slug": "kaunas-lt08m03"
+          },
+          "code": {
+            "id": "LT08M03",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT08M04",
+          "name": {
+            "local": "Kaišiadorys",
+            "en": "Kaisiadorys",
+            "slug": "kaisiadorys-lt08m04"
+          },
+          "code": {
+            "id": "LT08M04",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT08M05",
+          "name": {
+            "local": "Jonava",
+            "en": "Jonava",
+            "slug": "jonava-lt08m05"
+          },
+          "code": {
+            "id": "LT08M05",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT08M06",
+          "name": {
+            "local": "Raseiniai",
+            "en": "Raseiniai",
+            "slug": "raseiniai-lt08m06"
+          },
+          "code": {
+            "id": "LT08M06",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT08M07",
+          "name": {
+            "local": "Kedainiai",
+            "en": "Kedainiai",
+            "slug": "kedainiai-lt08m07"
+          },
+          "code": {
+            "id": "LT08M07",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LT09",
+      "name": {
+        "local": "Panevežys",
+        "en": "Panevezys",
+        "slug": "panevezys-lt09"
+      },
+      "code": {
+        "id": "LT09",
+        "iso": null
+      },
+      "municipality": [
+        {
+          "id": "LT09M01",
+          "name": {
+            "local": "Panevežys",
+            "en": "Panevezys",
+            "slug": "panevezys-lt09m01"
+          },
+          "code": {
+            "id": "LT09M01",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT09M02",
+          "name": {
+            "local": "Kupiškis",
+            "en": "Kupiskis",
+            "slug": "kupiskis-lt09m02"
+          },
+          "code": {
+            "id": "LT09M02",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT09M03",
+          "name": {
+            "local": "Pasvalys",
+            "en": "Pasvalys",
+            "slug": "pasvalys-lt09m03"
+          },
+          "code": {
+            "id": "LT09M03",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT09M04",
+          "name": {
+            "local": "Rokiškis",
+            "en": "Rokiskis",
+            "slug": "rokiskis-lt09m04"
+          },
+          "code": {
+            "id": "LT09M04",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT09M05",
+          "name": {
+            "local": "Biržai",
+            "en": "Birzai",
+            "slug": "birzai-lt09m05"
+          },
+          "code": {
+            "id": "LT09M05",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LT10",
+      "name": {
+        "local": "Utena",
+        "en": "Utena",
+        "slug": "utena-lt10"
+      },
+      "code": {
+        "id": "LT10",
+        "iso": null
+      },
+      "municipality": [
+        {
+          "id": "LT10M01",
+          "name": {
+            "local": "Moletai",
+            "en": "Moletai",
+            "slug": "moletai-lt10m01"
+          },
+          "code": {
+            "id": "LT10M01",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT10M02",
+          "name": {
+            "local": "Ignalina",
+            "en": "Ignalina",
+            "slug": "ignalina-lt10m02"
+          },
+          "code": {
+            "id": "LT10M02",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT10M03",
+          "name": {
+            "local": "Anykšciai",
+            "en": "Anyksciai",
+            "slug": "anyksciai-lt10m03"
+          },
+          "code": {
+            "id": "LT10M03",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT10M04",
+          "name": {
+            "local": "Visaginas",
+            "en": "Visaginas",
+            "slug": "visaginas-lt10m04"
+          },
+          "code": {
+            "id": "LT10M04",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT10M05",
+          "name": {
+            "local": "Utena",
+            "en": "Utena",
+            "slug": "utena-lt10m05"
+          },
+          "code": {
+            "id": "LT10M05",
+            "iso": null
+          }
+        },
+        {
+          "id": "LT10M06",
+          "name": {
+            "local": "Zarasai",
+            "en": "Zarasai",
+            "slug": "zarasai-lt10m06"
+          },
+          "code": {
+            "id": "LT10M06",
+            "iso": null
+          }
+        }
+      ]
+    }
+  ]
+}

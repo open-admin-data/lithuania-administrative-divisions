@@ -1,0 +1,45 @@
+{
+  "id": "LT04M06",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Joniškis",
+    "en": "Joniskis",
+    "slug": "joniskis-lt04m06"
+  },
+  "code": {
+    "id": "LT04M06",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT04",
+    "level": 1,
+    "name": {
+      "local": "Šiauliai",
+      "en": "Siauliai",
+      "slug": "siauliai-lt04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT04",
+      "level": 1,
+      "name": {
+        "local": "Šiauliai",
+        "en": "Siauliai",
+        "slug": "siauliai-lt04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.207",
+    "lon": "23.511"
+  },
+  "metadata": {},
+  "source": {}
+}

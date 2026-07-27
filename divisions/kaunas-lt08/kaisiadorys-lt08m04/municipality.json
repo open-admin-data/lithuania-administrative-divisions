@@ -1,0 +1,45 @@
+{
+  "id": "LT08M04",
+  "level": 2,
+  "level_name": {
+    "local": "Savivaldybė",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Kaišiadorys",
+    "en": "Kaisiadorys",
+    "slug": "kaisiadorys-lt08m04"
+  },
+  "code": {
+    "id": "LT08M04",
+    "iso": null
+  },
+  "parent": {
+    "id": "LT08",
+    "level": 1,
+    "name": {
+      "local": "Kaunas",
+      "en": "Kaunas",
+      "slug": "kaunas-lt08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LT08",
+      "level": 1,
+      "name": {
+        "local": "Kaunas",
+        "en": "Kaunas",
+        "slug": "kaunas-lt08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.829",
+    "lon": "24.387"
+  },
+  "metadata": {},
+  "source": {}
+}

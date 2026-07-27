@@ -1,0 +1,70 @@
+# Lithuania Administrative Divisions
+
+> Open dataset of Lithuania's administrative hierarchy:
+> 10 countys, 54 municipalitys.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total countys: 10
+- Total municipalitys: 54
+- Coordinates: included (all levels)
+- Last updated: 2026-07-27
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All countys (JSON)](https://raw.githubusercontent.com/open-admin-data/lithuania-administrative-divisions/main/data/all-county.json)
+- [All municipalitys (JSON)](https://raw.githubusercontent.com/open-admin-data/lithuania-administrative-divisions/main/data/all-municipality.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/lithuania-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/lithuania-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/lithuania-administrative-divisions/main/data/schema.json)
+
+## Browse by County
+
+- [Telsiai](https://github.com/open-admin-data/lithuania-administrative-divisions/tree/main/divisions/telsiai-lt01/) — 4 municipalitys
+- [Klaipeda](https://github.com/open-admin-data/lithuania-administrative-divisions/tree/main/divisions/klaipeda-lt02/) — 6 municipalitys
+- [Marijampole](https://github.com/open-admin-data/lithuania-administrative-divisions/tree/main/divisions/marijampole-lt03/) — 5 municipalitys
+- [Siauliai](https://github.com/open-admin-data/lithuania-administrative-divisions/tree/main/divisions/siauliai-lt04/) — 6 municipalitys
+- [Vilnius](https://github.com/open-admin-data/lithuania-administrative-divisions/tree/main/divisions/vilnius-lt05/) — 7 municipalitys
+- [Alytus](https://github.com/open-admin-data/lithuania-administrative-divisions/tree/main/divisions/alytus-lt06/) — 4 municipalitys
+- [Taurage](https://github.com/open-admin-data/lithuania-administrative-divisions/tree/main/divisions/taurage-lt07/) — 4 municipalitys
+- [Kaunas](https://github.com/open-admin-data/lithuania-administrative-divisions/tree/main/divisions/kaunas-lt08/) — 7 municipalitys
+- [Panevezys](https://github.com/open-admin-data/lithuania-administrative-divisions/tree/main/divisions/panevezys-lt09/) — 5 municipalitys
+- [Utena](https://github.com/open-admin-data/lithuania-administrative-divisions/tree/main/divisions/utena-lt10/) — 6 municipalitys
+
+## Per-County Full Data
+
+- [Telsiai](https://raw.githubusercontent.com/open-admin-data/lithuania-administrative-divisions/main/docs/llms-full/telsiai-lt01.txt)
+- [Klaipeda](https://raw.githubusercontent.com/open-admin-data/lithuania-administrative-divisions/main/docs/llms-full/klaipeda-lt02.txt)
+- [Marijampole](https://raw.githubusercontent.com/open-admin-data/lithuania-administrative-divisions/main/docs/llms-full/marijampole-lt03.txt)
+- [Siauliai](https://raw.githubusercontent.com/open-admin-data/lithuania-administrative-divisions/main/docs/llms-full/siauliai-lt04.txt)
+- [Vilnius](https://raw.githubusercontent.com/open-admin-data/lithuania-administrative-divisions/main/docs/llms-full/vilnius-lt05.txt)
+- [Alytus](https://raw.githubusercontent.com/open-admin-data/lithuania-administrative-divisions/main/docs/llms-full/alytus-lt06.txt)
+- [Taurage](https://raw.githubusercontent.com/open-admin-data/lithuania-administrative-divisions/main/docs/llms-full/taurage-lt07.txt)
+- [Kaunas](https://raw.githubusercontent.com/open-admin-data/lithuania-administrative-divisions/main/docs/llms-full/kaunas-lt08.txt)
+- [Panevezys](https://raw.githubusercontent.com/open-admin-data/lithuania-administrative-divisions/main/docs/llms-full/panevezys-lt09.txt)
+- [Utena](https://raw.githubusercontent.com/open-admin-data/lithuania-administrative-divisions/main/docs/llms-full/utena-lt10.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (county), 2 (municipality)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Lithuania Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/lithuania-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)
