@@ -3,7 +3,7 @@
 > 5 municipalitys
 > Code: LT09
 > Coordinates: 56.029, 24.713
-> Last updated: 2026-07-27. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Municipalitys
 

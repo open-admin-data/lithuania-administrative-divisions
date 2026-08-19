@@ -3,7 +3,7 @@
 > 5 municipalitys
 > Code: LT03
 > Coordinates: 54.69, 23.182
-> Last updated: 2026-07-27. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Municipalitys
 

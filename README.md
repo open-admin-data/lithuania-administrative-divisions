@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-07-27 |
+| Last Updated | 2026-08-19 |
 | Website | [openadmindata.org/lt](https://openadmindata.org/lt/) |
 | API | [openadmindata.org/api/lt](https://openadmindata.org/api/lt/) |
+| National Anthem | [🎵 Listen & Download Lithuania National Anthem MP3](https://onlygames.me/national-anthems/lt/) |
 
 ## Browse by County
 
