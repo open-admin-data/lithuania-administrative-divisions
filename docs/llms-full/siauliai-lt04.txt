@@ -3,7 +3,7 @@
 > 6 municipalitys
 > Code: LT04
 > Coordinates: 55.963, 23.325
-> Last updated: 2026-08-20. License: CC-BY-4.0.
+> Last updated: 2026-09-02. License: CC-BY-4.0.
 
 ## Municipalitys
 
