@@ -3,7 +3,7 @@
 > 7 municipalitys
 > Code: LT08
 > Coordinates: 55.003, 24.046
-> Last updated: 2026-09-02. License: CC-BY-4.0.
+> Last updated: 2026-09-08. License: CC-BY-4.0.
 
 ## Municipalitys
 
